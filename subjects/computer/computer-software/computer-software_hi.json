@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-software_0201",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0202",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0203",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0204",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0205",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0206",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0207",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0208",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0209",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0210",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0211",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0212",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0213",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0214",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0215",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0216",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0217",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0218",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0219",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0220",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0221",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0222",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0223",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0224",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0225",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0226",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0227",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0228",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0229",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0230",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0231",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0232",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0233",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0234",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0235",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0236",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0237",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0238",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0239",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0240",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0241",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0242",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0243",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0244",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0245",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0246",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0247",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0248",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0249",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0250",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0251",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0252",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0253",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0254",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0255",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0256",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0257",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0258",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0259",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0260",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0261",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0262",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0263",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0264",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0265",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0266",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0267",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0268",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0269",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0270",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0271",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0272",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0273",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0274",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0275",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0276",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0277",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0278",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0279",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0280",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0281",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0282",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0283",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0284",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0285",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0286",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0287",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0288",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0289",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0290",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0291",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0292",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0293",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0294",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0295",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0296",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0297",
+      "question": "कौन सा शब्द कंप्यूटर सॉफ्टवेयर से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0298",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0299",
+      "question": "कंप्यूटर सॉफ्टवेयर का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0300",
+      "question": "कंप्यूटर सॉफ्टवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
