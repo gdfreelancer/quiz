@@ -2199,6 +2199,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-general-knowledge_0101",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0102",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0103",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0104",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0105",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0106",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0107",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0108",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0109",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0110",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0111",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0112",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0113",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0114",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0115",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0116",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0117",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0118",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0119",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0120",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0121",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0122",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0123",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0124",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0125",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0126",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0127",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0128",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0129",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0130",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0131",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0132",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0133",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0134",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0135",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0136",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0137",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0138",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0139",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0140",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0141",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0142",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0143",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0144",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0145",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0146",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0147",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0148",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0149",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0150",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0151",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0152",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0153",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0154",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0155",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0156",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0157",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0158",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0159",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0160",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0161",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0162",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0163",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0164",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0165",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0166",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0167",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0168",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0169",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0170",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0171",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0172",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0173",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0174",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0175",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0176",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0177",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0178",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0179",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0180",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0181",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0182",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0183",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0184",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0185",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0186",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0187",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0188",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0189",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0190",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0191",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0192",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0193",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0194",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0195",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0196",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0197",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0198",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0199",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0200",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर सामान्य ज्ञान?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
