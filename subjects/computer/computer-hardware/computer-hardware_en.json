@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "computer-hardware_0401",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0402",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0403",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0404",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0405",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0406",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0407",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0408",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0409",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0410",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0411",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0412",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0413",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0414",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0415",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0416",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0417",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0418",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0419",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0420",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0421",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0422",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0423",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0424",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0425",
+      "question": "Which term is most closely associated with Computer Hardware?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0426",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0427",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0428",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0429",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0430",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0431",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0432",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0433",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0434",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0435",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0436",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0437",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0438",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0439",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0440",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0441",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0442",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0443",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0444",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0445",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0446",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0447",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0448",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0449",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0450",
+      "question": "Which of the following is a common concept in Computer Hardware?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0451",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0452",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0453",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0454",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0455",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0456",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0457",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0458",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0459",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0460",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0461",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0462",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0463",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0464",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0465",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0466",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0467",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0468",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0469",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0470",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0471",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0472",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0473",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0474",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0475",
+      "question": "Which term is commonly used when studying Computer Hardware?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0476",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0477",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0478",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0479",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0480",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0481",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0482",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0483",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0484",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0485",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0486",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0487",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0488",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0489",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0490",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0491",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0492",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0493",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0494",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0495",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0496",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0497",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0498",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0499",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0500",
+      "question": "Which item belongs to the field of Computer Hardware?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
