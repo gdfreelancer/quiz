@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "machine-learning_0401",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0402",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0403",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0404",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0405",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0406",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0407",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0408",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0409",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0410",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0411",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0412",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0413",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0414",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0415",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0416",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0417",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0418",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0419",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0420",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0421",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0422",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0423",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0424",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0425",
+      "question": "मशीन लर्निंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0426",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0427",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0428",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0429",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0430",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0431",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0432",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0433",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0434",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0435",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0436",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0437",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0438",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0439",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0440",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0441",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0442",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0443",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0444",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0445",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0446",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0447",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0448",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0449",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0450",
+      "question": "मशीन लर्निंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0451",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0452",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0453",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0454",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0455",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0456",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0457",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0458",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0459",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0460",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0461",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0462",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0463",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0464",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0465",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0466",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0467",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0468",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0469",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0470",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0471",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0472",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0473",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0474",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0475",
+      "question": "मशीन लर्निंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0476",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0477",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0478",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0479",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0480",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0481",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0482",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0483",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0484",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0485",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0486",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0487",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0488",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0489",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0490",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0491",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0492",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0493",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0494",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0495",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0496",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0497",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0498",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0499",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0500",
+      "question": "निम्नलिखित में से कौन सा शब्द मशीन लर्निंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
