@@ -2199,6 +2199,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-hardware_0101",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0102",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0103",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0104",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0105",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0106",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0107",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0108",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0109",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0110",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0111",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0112",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0113",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0114",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0115",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0116",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0117",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0118",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0119",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0120",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0121",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0122",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0123",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0124",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0125",
+      "question": "कौन सा शब्द मुख्य रूप से कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0126",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0127",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0128",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0129",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0130",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0131",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0132",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0133",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0134",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0135",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0136",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0137",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0138",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0139",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0140",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0141",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0142",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0143",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0144",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0145",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0146",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0147",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0148",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0149",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0150",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0151",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0152",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0153",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0154",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0155",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0156",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0157",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0158",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0159",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0160",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0161",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0162",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0163",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0164",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0165",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0166",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0167",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0168",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0169",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0170",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0171",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0172",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0173",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0174",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0175",
+      "question": "कौन सा शब्द इसका हिस्सा है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0176",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0177",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0178",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0179",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0180",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0181",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0182",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0183",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0184",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0185",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0186",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0187",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0188",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0189",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0190",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0191",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0192",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0193",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0194",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0195",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0196",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0197",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0198",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0199",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0200",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है कंप्यूटर हार्डवेयर?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
