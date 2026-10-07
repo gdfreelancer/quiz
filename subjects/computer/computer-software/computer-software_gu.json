@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "computer-software_0301",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0302",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0303",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0304",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0305",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0306",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0307",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0308",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0309",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0310",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0311",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0312",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0313",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0314",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0315",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0316",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0317",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0318",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0319",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0320",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0321",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0322",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0323",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0324",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0325",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0326",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0327",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0328",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0329",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0330",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0331",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0332",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0333",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0334",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0335",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0336",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0337",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0338",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0339",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0340",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0341",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0342",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0343",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0344",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0345",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0346",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0347",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0348",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0349",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0350",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0351",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0352",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0353",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0354",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0355",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0356",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0357",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0358",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0359",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0360",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0361",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0362",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0363",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0364",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0365",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0366",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0367",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0368",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0369",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0370",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0371",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0372",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0373",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0374",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0375",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0376",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0377",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0378",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0379",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0380",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0381",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0382",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0383",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0384",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0385",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0386",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0387",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0388",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0389",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0390",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0391",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0392",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0393",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0394",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0395",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "freeware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0396",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0397",
+      "question": "કયો શબ્દ કમ્પ્યુટર સોફ્ટવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0398",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0399",
+      "question": "કમ્પ્યુટર સોફ્ટવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0400",
+      "question": "કમ્પ્યુટર સોફ્ટવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
