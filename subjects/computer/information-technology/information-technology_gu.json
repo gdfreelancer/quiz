@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "information-technology_0301",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0302",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0303",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0304",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0305",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0306",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0307",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0308",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0309",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0310",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0311",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0312",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0313",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0314",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0315",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0316",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0317",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0318",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0319",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0320",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0321",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0322",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0323",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0324",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0325",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0326",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0327",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0328",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0329",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0330",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0331",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0332",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0333",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0334",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0335",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0336",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0337",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0338",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0339",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0340",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0341",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0342",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0343",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0344",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0345",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0346",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0347",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0348",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0349",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0350",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0351",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0352",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0353",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0354",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0355",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0356",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0357",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0358",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0359",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0360",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0361",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0362",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0363",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0364",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0365",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0366",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0367",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0368",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0369",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0370",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0371",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0372",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0373",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0374",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0375",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0376",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0377",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0378",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0379",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0380",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0381",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0382",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0383",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0384",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0385",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0386",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0387",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0388",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0389",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0390",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0391",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0392",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0393",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0394",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0395",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0396",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0397",
+      "question": "કયો શબ્દ માહિતી ટેકનોલોજી સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0398",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0399",
+      "question": "માહિતી ટેકનોલોજીનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0400",
+      "question": "માહિતી ટેકનોલોજીમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
