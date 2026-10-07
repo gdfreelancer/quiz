@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-general-knowledge_0201",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0202",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0203",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0204",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0205",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0206",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0207",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0208",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0209",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0210",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0211",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0212",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0213",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0214",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0215",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0216",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0217",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0218",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0219",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0220",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0221",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0222",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0223",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0224",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0225",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0226",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0227",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0228",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0229",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0230",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0231",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0232",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0233",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0234",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0235",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0236",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0237",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0238",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0239",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0240",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0241",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0242",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0243",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0244",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0245",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0246",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0247",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0248",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0249",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0250",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0251",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0252",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0253",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0254",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0255",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0256",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0257",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0258",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0259",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0260",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0261",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0262",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0263",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0264",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0265",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0266",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0267",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0268",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0269",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0270",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0271",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0272",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0273",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0274",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0275",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0276",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0277",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0278",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0279",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0280",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0281",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0282",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0283",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0284",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0285",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0286",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0287",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0288",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0289",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0290",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0291",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0292",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0293",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0294",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0295",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0296",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0297",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0298",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0299",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0300",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર સામાન્ય જ્ઞાન?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
