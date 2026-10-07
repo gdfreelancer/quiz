@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "database_0301",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0302",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0303",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0304",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0305",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0306",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0307",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0308",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0309",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0310",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0311",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0312",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0313",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0314",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0315",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0316",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0317",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0318",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0319",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0320",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0321",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0322",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0323",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0324",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0325",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0326",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0327",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0328",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0329",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0330",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0331",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0332",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0333",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0334",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0335",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0336",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0337",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0338",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0339",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0340",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0341",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0342",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0343",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0344",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0345",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0346",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0347",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0348",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0349",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0350",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0351",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0352",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0353",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0354",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0355",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0356",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0357",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0358",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0359",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0360",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0361",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0362",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0363",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0364",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0365",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0366",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0367",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0368",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0369",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0370",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0371",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0372",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0373",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0374",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0375",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0376",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0377",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0378",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0379",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0380",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0381",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0382",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0383",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0384",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0385",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0386",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0387",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0388",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0389",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0390",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0391",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0392",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0393",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0394",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0395",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0396",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0397",
+      "question": "Which term is most closely associated with Database?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0398",
+      "question": "Which term is a recognized concept in Database?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0399",
+      "question": "Which term belongs to Database?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0400",
+      "question": "Which term is commonly used in Database?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
