@@ -8802,2201 +8802,2201 @@
     },
     {
       "id": "computer-hardware_0401",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
         {
           "text": "motherboard",
           "isCorrect": true
         },
         {
-          "text": "HDD",
+          "text": "kernel",
           "isCorrect": false
         },
         {
-          "text": "microphone",
+          "text": "router",
           "isCorrect": false
         },
         {
-          "text": "HDMI",
+          "text": "database",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0402",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "heat sink",
-          "isCorrect": false
-        },
         {
           "text": "CPU",
           "isCorrect": true
         },
         {
-          "text": "speaker",
+          "text": "variable",
           "isCorrect": false
         },
         {
-          "text": "Ethernet port",
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0403",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "fan",
-          "isCorrect": false
-        },
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
         {
           "text": "RAM",
           "isCorrect": true
         },
         {
-          "text": "battery",
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0404",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
-        {
-          "text": "touchpad",
-          "isCorrect": false
-        },
         {
           "text": "ROM",
           "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0405",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
         {
           "text": "GPU",
           "isCorrect": true
         },
         {
-          "text": "mouse",
+          "text": "dataset",
           "isCorrect": false
         },
         {
-          "text": "scanner",
+          "text": "algorithm",
           "isCorrect": false
         },
         {
-          "text": "BIOS",
+          "text": "Linux",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0406",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "webcam",
-          "isCorrect": false
-        },
         {
           "text": "PSU",
           "isCorrect": true
         },
         {
-          "text": "USB port",
+          "text": "ERP",
           "isCorrect": false
         },
         {
-          "text": "CMOS",
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0407",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "microphone",
-          "isCorrect": false
-        },
-        {
-          "text": "HDMI",
-          "isCorrect": false
-        },
         {
           "text": "SSD",
           "isCorrect": true
         },
         {
-          "text": "motherboard",
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0408",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "speaker",
-          "isCorrect": false
-        },
-        {
-          "text": "Ethernet port",
-          "isCorrect": false
-        },
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
         {
           "text": "HDD",
           "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0409",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
         {
           "text": "heat sink",
           "isCorrect": true
         },
         {
-          "text": "monitor",
+          "text": "array",
           "isCorrect": false
         },
         {
-          "text": "battery",
+          "text": "neural network",
           "isCorrect": false
         },
         {
-          "text": "RAM",
+          "text": "encryption",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0410",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
         {
           "text": "fan",
           "isCorrect": true
         },
         {
-          "text": "touchpad",
+          "text": "virtual machine",
           "isCorrect": false
         },
         {
-          "text": "ROM",
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0411",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
-        {
-          "text": "BIOS",
-          "isCorrect": false
-        },
         {
           "text": "keyboard",
           "isCorrect": true
         },
         {
-          "text": "GPU",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0412",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "USB port",
-          "isCorrect": false
-        },
-        {
-          "text": "CMOS",
-          "isCorrect": false
-        },
-        {
-          "text": "PSU",
-          "isCorrect": false
-        },
         {
           "text": "mouse",
           "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0413",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
         {
           "text": "webcam",
           "isCorrect": true
         },
         {
-          "text": "HDMI",
+          "text": "HTTP",
           "isCorrect": false
         },
         {
-          "text": "motherboard",
+          "text": "DNS",
           "isCorrect": false
         },
         {
-          "text": "SSD",
+          "text": "server",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0414",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "Ethernet port",
-          "isCorrect": false
-        },
         {
           "text": "microphone",
           "isCorrect": true
         },
         {
-          "text": "CPU",
+          "text": "cloud computing",
           "isCorrect": false
         },
         {
-          "text": "HDD",
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0415",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "battery",
-          "isCorrect": false
-        },
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
         {
           "text": "speaker",
           "isCorrect": true
         },
         {
-          "text": "heat sink",
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0416",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "touchpad",
-          "isCorrect": false
-        },
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
-        {
-          "text": "fan",
-          "isCorrect": false
-        },
         {
           "text": "monitor",
           "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0417",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
         {
           "text": "printer",
           "isCorrect": true
         },
         {
-          "text": "BIOS",
+          "text": "compiler",
           "isCorrect": false
         },
         {
-          "text": "GPU",
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "keyboard",
+          "text": "primary key",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0418",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "CMOS",
-          "isCorrect": false
-        },
         {
           "text": "scanner",
           "isCorrect": true
         },
         {
-          "text": "PSU",
+          "text": "firewall",
           "isCorrect": false
         },
         {
-          "text": "mouse",
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0419",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "motherboard",
-          "isCorrect": false
-        },
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
         {
           "text": "USB port",
           "isCorrect": true
         },
         {
-          "text": "webcam",
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0420",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
-        {
-          "text": "microphone",
-          "isCorrect": false
-        },
         {
           "text": "HDMI",
           "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0421",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
         {
           "text": "Ethernet port",
           "isCorrect": true
         },
         {
-          "text": "RAM",
+          "text": "kernel",
           "isCorrect": false
         },
         {
-          "text": "heat sink",
+          "text": "router",
           "isCorrect": false
         },
         {
-          "text": "speaker",
+          "text": "database",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0422",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
         {
           "text": "battery",
           "isCorrect": true
         },
         {
-          "text": "fan",
+          "text": "variable",
           "isCorrect": false
         },
         {
-          "text": "monitor",
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0423",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
         {
           "text": "touchpad",
           "isCorrect": true
         },
         {
-          "text": "printer",
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0424",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
-        {
-          "text": "PSU",
-          "isCorrect": false
-        },
-        {
-          "text": "mouse",
-          "isCorrect": false
-        },
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
         {
           "text": "BIOS",
           "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0425",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर से कौन सा शब्द सबसे अधिक संबंधित है?",
       "options": [
         {
           "text": "CMOS",
           "isCorrect": true
         },
         {
-          "text": "SSD",
+          "text": "dataset",
           "isCorrect": false
         },
         {
-          "text": "webcam",
+          "text": "algorithm",
           "isCorrect": false
         },
         {
-          "text": "USB port",
+          "text": "Linux",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0426",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
         {
           "text": "motherboard",
           "isCorrect": true
         },
         {
-          "text": "microphone",
+          "text": "ERP",
           "isCorrect": false
         },
         {
-          "text": "HDMI",
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0427",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "heat sink",
-          "isCorrect": false
-        },
-        {
-          "text": "speaker",
-          "isCorrect": false
-        },
         {
           "text": "CPU",
           "isCorrect": true
         },
         {
-          "text": "Ethernet port",
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0428",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "fan",
-          "isCorrect": false
-        },
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
-        {
-          "text": "battery",
-          "isCorrect": false
-        },
         {
           "text": "RAM",
           "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0429",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
         {
           "text": "ROM",
           "isCorrect": true
         },
         {
-          "text": "keyboard",
+          "text": "array",
           "isCorrect": false
         },
         {
-          "text": "printer",
+          "text": "neural network",
           "isCorrect": false
         },
         {
-          "text": "touchpad",
+          "text": "encryption",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0430",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "mouse",
-          "isCorrect": false
-        },
         {
           "text": "GPU",
           "isCorrect": true
         },
         {
-          "text": "scanner",
+          "text": "virtual machine",
           "isCorrect": false
         },
         {
-          "text": "BIOS",
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0431",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "webcam",
-          "isCorrect": false
-        },
-        {
-          "text": "USB port",
-          "isCorrect": false
-        },
         {
           "text": "PSU",
           "isCorrect": true
         },
         {
-          "text": "CMOS",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0432",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "microphone",
-          "isCorrect": false
-        },
-        {
-          "text": "HDMI",
-          "isCorrect": false
-        },
-        {
-          "text": "motherboard",
-          "isCorrect": false
-        },
         {
           "text": "SSD",
           "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0433",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
         {
           "text": "HDD",
           "isCorrect": true
         },
         {
-          "text": "speaker",
+          "text": "HTTP",
           "isCorrect": false
         },
         {
-          "text": "Ethernet port",
+          "text": "DNS",
           "isCorrect": false
         },
         {
-          "text": "CPU",
+          "text": "server",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0434",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
         {
           "text": "heat sink",
           "isCorrect": true
         },
         {
-          "text": "battery",
+          "text": "cloud computing",
           "isCorrect": false
         },
         {
-          "text": "RAM",
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0435",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
-        {
-          "text": "touchpad",
-          "isCorrect": false
-        },
         {
           "text": "fan",
           "isCorrect": true
         },
         {
-          "text": "ROM",
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0436",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
-        {
-          "text": "BIOS",
-          "isCorrect": false
-        },
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
         {
           "text": "keyboard",
           "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0437",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
         {
           "text": "mouse",
           "isCorrect": true
         },
         {
-          "text": "USB port",
+          "text": "compiler",
           "isCorrect": false
         },
         {
-          "text": "CMOS",
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "PSU",
+          "text": "primary key",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0438",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "HDMI",
-          "isCorrect": false
-        },
         {
           "text": "webcam",
           "isCorrect": true
         },
         {
-          "text": "motherboard",
+          "text": "firewall",
           "isCorrect": false
         },
         {
-          "text": "SSD",
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0439",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "Ethernet port",
-          "isCorrect": false
-        },
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
         {
           "text": "microphone",
           "isCorrect": true
         },
         {
-          "text": "HDD",
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0440",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "battery",
-          "isCorrect": false
-        },
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
-        {
-          "text": "heat sink",
-          "isCorrect": false
-        },
         {
           "text": "speaker",
           "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0441",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
         {
           "text": "monitor",
           "isCorrect": true
         },
         {
-          "text": "touchpad",
+          "text": "kernel",
           "isCorrect": false
         },
         {
-          "text": "ROM",
+          "text": "router",
           "isCorrect": false
         },
         {
-          "text": "fan",
+          "text": "database",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0442",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "BIOS",
-          "isCorrect": false
-        },
         {
           "text": "printer",
           "isCorrect": true
         },
         {
-          "text": "GPU",
+          "text": "variable",
           "isCorrect": false
         },
         {
-          "text": "keyboard",
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0443",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "CMOS",
-          "isCorrect": false
-        },
-        {
-          "text": "PSU",
-          "isCorrect": false
-        },
         {
           "text": "scanner",
           "isCorrect": true
         },
         {
-          "text": "mouse",
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0444",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "motherboard",
-          "isCorrect": false
-        },
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
-        {
-          "text": "webcam",
-          "isCorrect": false
-        },
         {
           "text": "USB port",
           "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0445",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
         {
           "text": "HDMI",
           "isCorrect": true
         },
         {
-          "text": "CPU",
+          "text": "dataset",
           "isCorrect": false
         },
         {
-          "text": "HDD",
+          "text": "algorithm",
           "isCorrect": false
         },
         {
-          "text": "microphone",
+          "text": "Linux",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0446",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
         {
           "text": "Ethernet port",
           "isCorrect": true
         },
         {
-          "text": "heat sink",
+          "text": "ERP",
           "isCorrect": false
         },
         {
-          "text": "speaker",
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0447",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
-        {
-          "text": "fan",
-          "isCorrect": false
-        },
         {
           "text": "battery",
           "isCorrect": true
         },
         {
-          "text": "monitor",
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0448",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
         {
           "text": "touchpad",
           "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0449",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
         {
           "text": "BIOS",
           "isCorrect": true
         },
         {
-          "text": "PSU",
+          "text": "array",
           "isCorrect": false
         },
         {
-          "text": "mouse",
+          "text": "neural network",
           "isCorrect": false
         },
         {
-          "text": "scanner",
+          "text": "encryption",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0450",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
       "options": [
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
         {
           "text": "CMOS",
           "isCorrect": true
         },
         {
-          "text": "webcam",
+          "text": "virtual machine",
           "isCorrect": false
         },
         {
-          "text": "USB port",
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0451",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
-        {
-          "text": "microphone",
-          "isCorrect": false
-        },
         {
           "text": "motherboard",
           "isCorrect": true
         },
         {
-          "text": "HDMI",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0452",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "heat sink",
-          "isCorrect": false
-        },
-        {
-          "text": "speaker",
-          "isCorrect": false
-        },
-        {
-          "text": "Ethernet port",
-          "isCorrect": false
-        },
         {
           "text": "CPU",
           "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0453",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
         {
           "text": "RAM",
           "isCorrect": true
         },
         {
-          "text": "fan",
+          "text": "HTTP",
           "isCorrect": false
         },
         {
-          "text": "monitor",
+          "text": "DNS",
           "isCorrect": false
         },
         {
-          "text": "battery",
+          "text": "server",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0454",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
         {
           "text": "ROM",
           "isCorrect": true
         },
         {
-          "text": "printer",
+          "text": "cloud computing",
           "isCorrect": false
         },
         {
-          "text": "touchpad",
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0455",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "mouse",
-          "isCorrect": false
-        },
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
         {
           "text": "GPU",
           "isCorrect": true
         },
         {
-          "text": "BIOS",
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0456",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "webcam",
-          "isCorrect": false
-        },
-        {
-          "text": "USB port",
-          "isCorrect": false
-        },
-        {
-          "text": "CMOS",
-          "isCorrect": false
-        },
         {
           "text": "PSU",
           "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0457",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
         {
           "text": "SSD",
           "isCorrect": true
         },
         {
-          "text": "microphone",
+          "text": "compiler",
           "isCorrect": false
         },
         {
-          "text": "HDMI",
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "motherboard",
+          "text": "primary key",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0458",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "speaker",
-          "isCorrect": false
-        },
         {
           "text": "HDD",
           "isCorrect": true
         },
         {
-          "text": "Ethernet port",
+          "text": "firewall",
           "isCorrect": false
         },
         {
-          "text": "CPU",
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0459",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
-        {
-          "text": "battery",
-          "isCorrect": false
-        },
         {
           "text": "heat sink",
           "isCorrect": true
         },
         {
-          "text": "RAM",
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0460",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
-        {
-          "text": "touchpad",
-          "isCorrect": false
-        },
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
         {
           "text": "fan",
           "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0461",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
         {
           "text": "keyboard",
           "isCorrect": true
         },
         {
-          "text": "scanner",
+          "text": "kernel",
           "isCorrect": false
         },
         {
-          "text": "BIOS",
+          "text": "router",
           "isCorrect": false
         },
         {
-          "text": "GPU",
+          "text": "database",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0462",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "USB port",
-          "isCorrect": false
-        },
         {
           "text": "mouse",
           "isCorrect": true
         },
         {
-          "text": "CMOS",
+          "text": "variable",
           "isCorrect": false
         },
         {
-          "text": "PSU",
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0463",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "HDMI",
-          "isCorrect": false
-        },
-        {
-          "text": "motherboard",
-          "isCorrect": false
-        },
         {
           "text": "webcam",
           "isCorrect": true
         },
         {
-          "text": "SSD",
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0464",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "Ethernet port",
-          "isCorrect": false
-        },
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
         {
           "text": "microphone",
           "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0465",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
         {
           "text": "speaker",
           "isCorrect": true
         },
         {
-          "text": "battery",
+          "text": "dataset",
           "isCorrect": false
         },
         {
-          "text": "RAM",
+          "text": "algorithm",
           "isCorrect": false
         },
         {
-          "text": "heat sink",
+          "text": "Linux",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0466",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "touchpad",
-          "isCorrect": false
-        },
         {
           "text": "monitor",
           "isCorrect": true
         },
         {
-          "text": "ROM",
+          "text": "ERP",
           "isCorrect": false
         },
         {
-          "text": "fan",
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0467",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "BIOS",
-          "isCorrect": false
-        },
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
         {
           "text": "printer",
           "isCorrect": true
         },
         {
-          "text": "keyboard",
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0468",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "CMOS",
-          "isCorrect": false
-        },
-        {
-          "text": "PSU",
-          "isCorrect": false
-        },
-        {
-          "text": "mouse",
-          "isCorrect": false
-        },
         {
           "text": "scanner",
           "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0469",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
         {
           "text": "USB port",
           "isCorrect": true
         },
         {
-          "text": "motherboard",
+          "text": "array",
           "isCorrect": false
         },
         {
-          "text": "SSD",
+          "text": "neural network",
           "isCorrect": false
         },
         {
-          "text": "webcam",
+          "text": "encryption",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0470",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
         {
           "text": "HDMI",
           "isCorrect": true
         },
         {
-          "text": "HDD",
+          "text": "virtual machine",
           "isCorrect": false
         },
         {
-          "text": "microphone",
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0471",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
-        {
-          "text": "heat sink",
-          "isCorrect": false
-        },
         {
           "text": "Ethernet port",
           "isCorrect": true
         },
         {
-          "text": "speaker",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0472",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
-        {
-          "text": "fan",
-          "isCorrect": false
-        },
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
         {
           "text": "battery",
           "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0473",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
         {
           "text": "touchpad",
           "isCorrect": true
         },
         {
-          "text": "GPU",
+          "text": "HTTP",
           "isCorrect": false
         },
         {
-          "text": "keyboard",
+          "text": "DNS",
           "isCorrect": false
         },
         {
-          "text": "printer",
+          "text": "server",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0474",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "PSU",
-          "isCorrect": false
-        },
         {
           "text": "BIOS",
           "isCorrect": true
         },
         {
-          "text": "mouse",
+          "text": "cloud computing",
           "isCorrect": false
         },
         {
-          "text": "scanner",
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0475",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "कंप्यूटर हार्डवेयर का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
       "options": [
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
-        {
-          "text": "webcam",
-          "isCorrect": false
-        },
         {
           "text": "CMOS",
           "isCorrect": true
         },
         {
-          "text": "USB port",
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0476",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
-        {
-          "text": "microphone",
-          "isCorrect": false
-        },
-        {
-          "text": "HDMI",
-          "isCorrect": false
-        },
         {
           "text": "motherboard",
           "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0477",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
         {
           "text": "CPU",
           "isCorrect": true
         },
         {
-          "text": "heat sink",
+          "text": "compiler",
           "isCorrect": false
         },
         {
-          "text": "speaker",
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "Ethernet port",
+          "text": "primary key",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0478",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "fan",
-          "isCorrect": false
-        },
         {
           "text": "RAM",
           "isCorrect": true
         },
         {
-          "text": "monitor",
+          "text": "firewall",
           "isCorrect": false
         },
         {
-          "text": "battery",
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0479",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
         {
           "text": "ROM",
           "isCorrect": true
         },
         {
-          "text": "touchpad",
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0480",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "mouse",
-          "isCorrect": false
-        },
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
-        {
-          "text": "BIOS",
-          "isCorrect": false
-        },
         {
           "text": "GPU",
           "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0481",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
         {
           "text": "PSU",
           "isCorrect": true
         },
         {
-          "text": "webcam",
+          "text": "kernel",
           "isCorrect": false
         },
         {
-          "text": "USB port",
+          "text": "router",
           "isCorrect": false
         },
         {
-          "text": "CMOS",
+          "text": "database",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0482",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "microphone",
-          "isCorrect": false
-        },
         {
           "text": "SSD",
           "isCorrect": true
         },
         {
-          "text": "HDMI",
+          "text": "variable",
           "isCorrect": false
         },
         {
-          "text": "motherboard",
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0483",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "speaker",
-          "isCorrect": false
-        },
-        {
-          "text": "Ethernet port",
-          "isCorrect": false
-        },
         {
           "text": "HDD",
           "isCorrect": true
         },
         {
-          "text": "CPU",
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0484",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
-        {
-          "text": "battery",
-          "isCorrect": false
-        },
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
         {
           "text": "heat sink",
           "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0485",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
         {
           "text": "fan",
           "isCorrect": true
         },
         {
-          "text": "printer",
+          "text": "dataset",
           "isCorrect": false
         },
         {
-          "text": "touchpad",
+          "text": "algorithm",
           "isCorrect": false
         },
         {
-          "text": "ROM",
+          "text": "Linux",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0486",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
         {
           "text": "keyboard",
           "isCorrect": true
         },
         {
-          "text": "BIOS",
+          "text": "ERP",
           "isCorrect": false
         },
         {
-          "text": "GPU",
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0487",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "USB port",
-          "isCorrect": false
-        },
-        {
-          "text": "CMOS",
-          "isCorrect": false
-        },
         {
           "text": "mouse",
           "isCorrect": true
         },
         {
-          "text": "PSU",
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0488",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "HDMI",
-          "isCorrect": false
-        },
-        {
-          "text": "motherboard",
-          "isCorrect": false
-        },
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
         {
           "text": "webcam",
           "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0489",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
         {
           "text": "microphone",
           "isCorrect": true
         },
         {
-          "text": "Ethernet port",
+          "text": "array",
           "isCorrect": false
         },
         {
-          "text": "CPU",
+          "text": "neural network",
           "isCorrect": false
         },
         {
-          "text": "HDD",
+          "text": "encryption",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0490",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "battery",
-          "isCorrect": false
-        },
         {
           "text": "speaker",
           "isCorrect": true
         },
         {
-          "text": "RAM",
+          "text": "virtual machine",
           "isCorrect": false
         },
         {
-          "text": "heat sink",
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0491",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "touchpad",
-          "isCorrect": false
-        },
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
         {
           "text": "monitor",
           "isCorrect": true
         },
         {
-          "text": "fan",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0492",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "BIOS",
-          "isCorrect": false
-        },
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
         {
           "text": "printer",
           "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0493",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
         {
           "text": "scanner",
           "isCorrect": true
         },
         {
-          "text": "CMOS",
+          "text": "HTTP",
           "isCorrect": false
         },
         {
-          "text": "PSU",
+          "text": "DNS",
           "isCorrect": false
         },
         {
-          "text": "mouse",
+          "text": "server",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0494",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "motherboard",
-          "isCorrect": false
-        },
         {
           "text": "USB port",
           "isCorrect": true
         },
         {
-          "text": "SSD",
+          "text": "cloud computing",
           "isCorrect": false
         },
         {
-          "text": "webcam",
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0495",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
         {
           "text": "HDMI",
           "isCorrect": true
         },
         {
-          "text": "microphone",
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0496",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
-        {
-          "text": "heat sink",
-          "isCorrect": false
-        },
-        {
-          "text": "speaker",
-          "isCorrect": false
-        },
         {
           "text": "Ethernet port",
           "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0497",
-      "question": "कौन सा शब्द कंप्यूटर हार्डवेयर से सबसे अधिक संबंधित है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
         {
           "text": "battery",
           "isCorrect": true
         },
         {
-          "text": "ROM",
+          "text": "compiler",
           "isCorrect": false
         },
         {
-          "text": "fan",
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "monitor",
+          "text": "primary key",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0498",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द एक मान्य अवधारणा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
         {
           "text": "touchpad",
           "isCorrect": true
         },
         {
-          "text": "keyboard",
+          "text": "firewall",
           "isCorrect": false
         },
         {
-          "text": "printer",
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0499",
-      "question": "कंप्यूटर हार्डवेयर का कौन सा शब्द हिस्सा है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "PSU",
-          "isCorrect": false
-        },
-        {
-          "text": "mouse",
-          "isCorrect": false
-        },
         {
           "text": "BIOS",
           "isCorrect": true
         },
         {
-          "text": "scanner",
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-hardware_0500",
-      "question": "कंप्यूटर हार्डवेयर में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर हार्डवेयर के क्षेत्र से संबंधित है?",
       "options": [
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
-        {
-          "text": "webcam",
-          "isCorrect": false
-        },
-        {
-          "text": "USB port",
-          "isCorrect": false
-        },
         {
           "text": "CMOS",
           "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
         }
       ]
     }
