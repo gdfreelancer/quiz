@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "cyber-security_0201",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0202",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0203",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0204",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0205",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0206",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0207",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0208",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0209",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0210",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0211",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0212",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0213",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0214",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0215",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0216",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0217",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0218",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0219",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0220",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0221",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0222",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0223",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0224",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0225",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0226",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0227",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0228",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0229",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0230",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0231",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0232",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0233",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0234",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0235",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0236",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0237",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0238",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0239",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0240",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0241",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0242",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0243",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0244",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0245",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0246",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0247",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0248",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0249",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0250",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0251",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0252",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0253",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0254",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0255",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0256",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0257",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0258",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0259",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0260",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0261",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0262",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0263",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0264",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0265",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0266",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0267",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0268",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0269",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0270",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0271",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0272",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0273",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0274",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0275",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0276",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0277",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0278",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0279",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0280",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0281",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0282",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0283",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0284",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0285",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0286",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0287",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0288",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0289",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0290",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0291",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0292",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0293",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0294",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0295",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0296",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0297",
+      "question": "Which term is most closely associated with Cyber Security?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0298",
+      "question": "Which term is a recognized concept in Cyber Security?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0299",
+      "question": "Which term belongs to Cyber Security?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0300",
+      "question": "Which term is commonly used in Cyber Security?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
