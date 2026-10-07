@@ -2199,6 +2199,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "operating-systems_0101",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0102",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0103",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0104",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0105",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0106",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0107",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0108",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0109",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0110",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0111",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0112",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0113",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0114",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0115",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0116",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0117",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0118",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0119",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0120",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0121",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0122",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0123",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0124",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0125",
+      "question": "कौन सा शब्द मुख्य रूप से ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0126",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0127",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0128",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0129",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0130",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0131",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0132",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0133",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0134",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0135",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0136",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0137",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0138",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0139",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0140",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0141",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0142",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0143",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0144",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0145",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0146",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0147",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0148",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0149",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0150",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0151",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0152",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0153",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0154",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0155",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0156",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0157",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0158",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0159",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0160",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0161",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0162",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0163",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0164",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0165",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0166",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0167",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0168",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0169",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0170",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0171",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0172",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0173",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0174",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0175",
+      "question": "कौन सा शब्द इसका हिस्सा है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0176",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0177",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0178",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0179",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0180",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0181",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0182",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0183",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0184",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0185",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0186",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0187",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0188",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0189",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0190",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0191",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0192",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0193",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0194",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0195",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0196",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0197",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0198",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0199",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0200",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है ऑपरेटिंग सिस्टम?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
