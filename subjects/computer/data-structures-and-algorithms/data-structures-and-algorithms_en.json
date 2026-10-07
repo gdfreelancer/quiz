@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0201",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0202",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0203",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0204",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0205",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0206",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0207",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0208",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0209",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0210",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0211",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0212",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0213",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0214",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0215",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0216",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0217",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0218",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0219",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0220",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0221",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0222",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0223",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0224",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0225",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0226",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0227",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0228",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0229",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0230",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0231",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0232",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0233",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0234",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0235",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0236",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0237",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0238",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0239",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0240",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0241",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0242",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0243",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0244",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0245",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0246",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0247",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0248",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0249",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0250",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0251",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0252",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0253",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0254",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0255",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0256",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0257",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0258",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0259",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0260",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0261",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0262",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0263",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0264",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0265",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0266",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0267",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0268",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0269",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0270",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0271",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0272",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0273",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0274",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0275",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0276",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0277",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0278",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0279",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0280",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0281",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0282",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0283",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0284",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0285",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0286",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0287",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0288",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0289",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0290",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0291",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0292",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0293",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0294",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0295",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0296",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0297",
+      "question": "Which term is most closely associated with Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0298",
+      "question": "Which term is a recognized concept in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0299",
+      "question": "Which term belongs to Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0300",
+      "question": "Which term is commonly used in Data Structures and Algorithms?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
