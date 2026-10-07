@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0201",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0202",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0203",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0204",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0205",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0206",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0207",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0208",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0209",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0210",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0211",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0212",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0213",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0214",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0215",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0216",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0217",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0218",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0219",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0220",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0221",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0222",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0223",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0224",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0225",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0226",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0227",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0228",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0229",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0230",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0231",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0232",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0233",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0234",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0235",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0236",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0237",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0238",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0239",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0240",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0241",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0242",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0243",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0244",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0245",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0246",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0247",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0248",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0249",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0250",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0251",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0252",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0253",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0254",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0255",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0256",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0257",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0258",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0259",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0260",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0261",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0262",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0263",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0264",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0265",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0266",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0267",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0268",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0269",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0270",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0271",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0272",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0273",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0274",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0275",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0276",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0277",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0278",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0279",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0280",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0281",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0282",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0283",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0284",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0285",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0286",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0287",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0288",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0289",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0290",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0291",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0292",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0293",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0294",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0295",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0296",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0297",
+      "question": "કયો શબ્દ ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0298",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0299",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0300",
+      "question": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
