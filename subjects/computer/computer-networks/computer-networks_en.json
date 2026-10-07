@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "computer-networks_0401",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0402",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0403",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0404",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0405",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0406",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0407",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0408",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0409",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0410",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0411",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0412",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0413",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0414",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0415",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0416",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0417",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0418",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0419",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0420",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0421",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0422",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0423",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0424",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0425",
+      "question": "Which term is most closely associated with Computer Networks?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0426",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0427",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0428",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0429",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0430",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0431",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0432",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0433",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0434",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0435",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0436",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0437",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0438",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0439",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0440",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0441",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0442",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0443",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0444",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0445",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0446",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0447",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0448",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0449",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0450",
+      "question": "Which of the following is a common concept in Computer Networks?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0451",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0452",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0453",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0454",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0455",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0456",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0457",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0458",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0459",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0460",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0461",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0462",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0463",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0464",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0465",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0466",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0467",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0468",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0469",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0470",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0471",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0472",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0473",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0474",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0475",
+      "question": "Which term is commonly used when studying Computer Networks?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0476",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0477",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0478",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0479",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0480",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0481",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0482",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0483",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0484",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0485",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0486",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0487",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0488",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0489",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0490",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0491",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0492",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0493",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0494",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0495",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0496",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0497",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0498",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0499",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0500",
+      "question": "Which item belongs to the field of Computer Networks?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
