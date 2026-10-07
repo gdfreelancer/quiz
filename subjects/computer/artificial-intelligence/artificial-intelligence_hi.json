@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "artificial-intelligence_0201",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0202",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0203",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0204",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0205",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0206",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0207",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0208",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0209",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0210",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0211",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0212",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0213",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0214",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0215",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0216",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0217",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0218",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0219",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0220",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0221",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0222",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0223",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0224",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0225",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0226",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0227",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0228",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0229",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0230",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0231",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0232",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0233",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0234",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0235",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0236",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0237",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0238",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0239",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0240",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0241",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0242",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0243",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0244",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0245",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0246",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0247",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0248",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0249",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0250",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0251",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0252",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0253",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0254",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0255",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0256",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0257",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0258",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0259",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0260",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0261",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0262",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0263",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0264",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0265",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0266",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0267",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0268",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0269",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0270",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0271",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0272",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0273",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0274",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0275",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0276",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0277",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0278",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0279",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0280",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0281",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0282",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0283",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0284",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0285",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0286",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0287",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0288",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0289",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0290",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0291",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0292",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0293",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0294",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0295",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0296",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0297",
+      "question": "कौन सा शब्द कृत्रिम बुद्धिमत्ता से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0298",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0299",
+      "question": "कृत्रिम बुद्धिमत्ता का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0300",
+      "question": "कृत्रिम बुद्धिमत्ता में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
