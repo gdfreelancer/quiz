@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "programming_0301",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0302",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0303",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0304",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0305",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0306",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0307",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0308",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0309",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0310",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0311",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0312",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0313",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0314",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0315",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0316",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0317",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0318",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0319",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0320",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0321",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0322",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0323",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0324",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0325",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0326",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0327",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0328",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0329",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0330",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0331",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0332",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0333",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0334",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0335",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0336",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0337",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0338",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0339",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0340",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0341",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0342",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0343",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0344",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0345",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0346",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0347",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0348",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0349",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0350",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0351",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0352",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0353",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0354",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0355",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0356",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0357",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0358",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0359",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0360",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0361",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0362",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0363",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0364",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0365",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0366",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0367",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0368",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0369",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0370",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0371",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0372",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0373",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0374",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0375",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0376",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0377",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0378",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0379",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0380",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0381",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0382",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0383",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0384",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0385",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0386",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0387",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0388",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0389",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0390",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0391",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0392",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0393",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0394",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0395",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0396",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0397",
+      "question": "Which term is most closely associated with Programming?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0398",
+      "question": "Which term is a recognized concept in Programming?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0399",
+      "question": "Which term belongs to Programming?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0400",
+      "question": "Which term is commonly used in Programming?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
