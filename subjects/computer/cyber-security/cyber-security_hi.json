@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "cyber-security_0301",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0302",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0303",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0304",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0305",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0306",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0307",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0308",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0309",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0310",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0311",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0312",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0313",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0314",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0315",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0316",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0317",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0318",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0319",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0320",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0321",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0322",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0323",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0324",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0325",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0326",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0327",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0328",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0329",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0330",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0331",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0332",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0333",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0334",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0335",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0336",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0337",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0338",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0339",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0340",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0341",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0342",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0343",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0344",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0345",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0346",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0347",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0348",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0349",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0350",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0351",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0352",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0353",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0354",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0355",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0356",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0357",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0358",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0359",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0360",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0361",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0362",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0363",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0364",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0365",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0366",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0367",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0368",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0369",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0370",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0371",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0372",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0373",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0374",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0375",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0376",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0377",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0378",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0379",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0380",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0381",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0382",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0383",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0384",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0385",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0386",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0387",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0388",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0389",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0390",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0391",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0392",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0393",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0394",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0395",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0396",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0397",
+      "question": "कौन सा शब्द साइबर सुरक्षा से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0398",
+      "question": "साइबर सुरक्षा में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0399",
+      "question": "साइबर सुरक्षा का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0400",
+      "question": "साइबर सुरक्षा में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
