@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "computer-hardware_0001",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0002",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0003",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0004",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0005",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0006",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0007",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0008",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0009",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0010",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0011",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0012",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0013",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0014",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0015",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0016",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0017",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0018",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0019",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0020",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0021",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0022",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0023",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0024",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0025",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0026",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0027",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0028",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0029",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0030",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0031",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0032",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0033",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0034",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0035",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0036",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0037",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0038",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0039",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0040",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0041",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0042",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0043",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0044",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0045",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0046",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0047",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0048",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0049",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0050",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0051",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0052",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0053",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0054",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0055",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0056",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0057",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0058",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0059",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0060",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0061",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0062",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0063",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0064",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0065",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0066",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0067",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0068",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0069",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0070",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0071",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0072",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0073",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0074",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0075",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0076",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0077",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0078",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0079",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0080",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0081",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0082",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0083",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0084",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0085",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0086",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0087",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0088",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0089",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0090",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0091",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0092",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0093",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0094",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0095",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0096",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0097",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0098",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0099",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0100",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

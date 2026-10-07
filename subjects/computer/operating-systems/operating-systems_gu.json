@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "operating-systems_0001",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0002",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0003",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0004",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0005",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0006",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0007",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0008",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0009",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0010",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0011",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0012",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0013",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0014",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0015",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0016",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0017",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0018",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0019",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0020",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0021",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0022",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0023",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0024",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0025",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0026",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0027",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0028",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0029",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0030",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0031",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0032",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0033",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0034",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0035",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0036",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0037",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0038",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0039",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0040",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0041",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0042",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0043",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0044",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0045",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0046",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0047",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0048",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0049",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0050",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0051",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0052",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0053",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0054",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0055",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0056",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0057",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0058",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0059",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0060",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0061",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0062",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0063",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0064",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0065",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0066",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0067",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0068",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0069",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0070",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0071",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0072",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0073",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0074",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0075",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0076",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0077",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0078",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0079",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0080",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0081",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0082",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0083",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0084",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0085",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0086",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0087",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0088",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0089",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0090",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0091",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0092",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0093",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0094",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0095",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0096",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0097",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0098",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0099",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0100",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

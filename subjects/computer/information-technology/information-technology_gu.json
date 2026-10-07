@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "information-technology_0001",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0002",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0003",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0004",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0005",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0006",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0007",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0008",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0009",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0010",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0011",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0012",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0013",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0014",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0015",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0016",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0017",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0018",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0019",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0020",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0021",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0022",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0023",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0024",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0025",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0026",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0027",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0028",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0029",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0030",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0031",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0032",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0033",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0034",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0035",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0036",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0037",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0038",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0039",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0040",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0041",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0042",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0043",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0044",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0045",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0046",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0047",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0048",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0049",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0050",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0051",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0052",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0053",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0054",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0055",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0056",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0057",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0058",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0059",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0060",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0061",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0062",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0063",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0064",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0065",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0066",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0067",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0068",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0069",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0070",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0071",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0072",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0073",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0074",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0075",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0076",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0077",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0078",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0079",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0080",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0081",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0082",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0083",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0084",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0085",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0086",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0087",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0088",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0089",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0090",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0091",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0092",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0093",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0094",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0095",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0096",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0097",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0098",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0099",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0100",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

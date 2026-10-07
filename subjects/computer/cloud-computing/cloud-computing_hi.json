@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "cloud-computing_0001",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0002",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0003",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0004",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0005",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0006",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0007",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0008",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0009",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0010",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0011",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0012",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0013",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0014",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0015",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0016",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0017",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0018",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0019",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0020",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0021",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0022",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0023",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0024",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0025",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0026",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0027",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0028",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0029",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0030",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0031",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0032",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0033",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0034",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0035",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0036",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0037",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0038",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0039",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0040",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0041",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0042",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0043",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0044",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0045",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0046",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0047",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0048",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0049",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0050",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0051",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0052",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0053",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0054",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0055",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0056",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0057",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0058",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0059",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0060",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0061",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0062",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0063",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0064",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0065",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0066",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0067",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0068",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0069",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0070",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0071",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0072",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0073",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0074",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0075",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0076",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0077",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0078",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0079",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0080",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0081",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0082",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0083",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0084",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0085",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0086",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0087",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0088",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0089",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0090",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0091",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0092",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0093",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0094",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0095",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0096",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0097",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0098",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0099",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0100",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

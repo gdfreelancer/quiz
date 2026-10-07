@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "cyber-security_0001",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0002",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0003",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0004",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0005",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0006",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0007",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0008",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0009",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0010",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0011",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0012",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0013",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0014",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0015",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0016",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0017",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0018",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0019",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0020",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0021",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0022",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0023",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0024",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0025",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0026",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0027",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0028",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0029",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0030",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0031",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0032",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0033",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0034",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0035",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0036",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0037",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0038",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0039",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0040",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0041",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0042",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0043",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0044",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0045",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0046",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0047",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0048",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0049",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0050",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0051",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0052",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0053",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0054",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0055",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0056",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0057",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0058",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0059",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0060",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0061",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0062",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0063",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0064",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0065",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0066",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0067",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0068",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0069",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0070",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0071",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0072",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0073",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0074",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0075",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0076",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0077",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0078",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0079",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0080",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0081",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0082",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0083",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0084",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0085",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0086",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0087",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0088",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0089",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0090",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0091",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0092",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0093",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0094",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0095",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0096",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0097",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0098",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0099",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0100",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

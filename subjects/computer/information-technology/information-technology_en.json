@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "information-technology_0001",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0002",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0003",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0004",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0005",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0006",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0007",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0008",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0009",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0010",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0011",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0012",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0013",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0014",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0015",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0016",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0017",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0018",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0019",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0020",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0021",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0022",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0023",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0024",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0025",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0026",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0027",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0028",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0029",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0030",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0031",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0032",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0033",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0034",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0035",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0036",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0037",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0038",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0039",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0040",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0041",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0042",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0043",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0044",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0045",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0046",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0047",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0048",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0049",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0050",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0051",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0052",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0053",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0054",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0055",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0056",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0057",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0058",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0059",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0060",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0061",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0062",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0063",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0064",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0065",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0066",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0067",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0068",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0069",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0070",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0071",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0072",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0073",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0074",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0075",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0076",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0077",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0078",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0079",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0080",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0081",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0082",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0083",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0084",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0085",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0086",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0087",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0088",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0089",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0090",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0091",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0092",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0093",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0094",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0095",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0096",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0097",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0098",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0099",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0100",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

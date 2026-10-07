@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "data-structures-and-algorithms_0001",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0002",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0003",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0004",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0005",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0006",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0007",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0008",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0009",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0010",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0011",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0012",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0013",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0014",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0015",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0016",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0017",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0018",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0019",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0020",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0021",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0022",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0023",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0024",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0025",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0026",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0027",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0028",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0029",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0030",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0031",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0032",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0033",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0034",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0035",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0036",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0037",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0038",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0039",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0040",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0041",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0042",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0043",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0044",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0045",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0046",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0047",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0048",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0049",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0050",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0051",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0052",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0053",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0054",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0055",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0056",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0057",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0058",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0059",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0060",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0061",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0062",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0063",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0064",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0065",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0066",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0067",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0068",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0069",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0070",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0071",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0072",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0073",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0074",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0075",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0076",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0077",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0078",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0079",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0080",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0081",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0082",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0083",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0084",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0085",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0086",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0087",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0088",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0089",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0090",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0091",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0092",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0093",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0094",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0095",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0096",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0097",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0098",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0099",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0100",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

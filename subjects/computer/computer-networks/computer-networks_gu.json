@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "computer-networks_0001",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0002",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0003",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0004",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0005",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0006",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0007",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0008",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0009",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0010",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0011",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0012",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0013",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0014",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0015",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0016",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0017",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0018",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0019",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0020",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0021",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0022",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0023",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0024",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0025",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0026",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0027",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0028",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0029",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0030",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0031",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0032",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0033",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0034",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0035",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0036",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0037",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0038",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0039",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0040",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0041",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0042",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0043",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0044",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0045",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0046",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0047",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0048",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0049",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0050",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0051",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0052",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0053",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0054",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0055",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0056",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0057",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0058",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0059",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0060",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0061",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0062",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0063",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0064",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0065",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0066",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0067",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0068",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0069",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0070",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0071",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0072",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0073",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0074",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0075",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0076",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0077",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0078",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0079",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0080",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0081",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0082",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0083",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0084",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0085",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0086",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0087",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0088",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0089",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0090",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0091",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0092",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0093",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0094",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0095",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0096",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0097",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0098",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0099",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0100",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

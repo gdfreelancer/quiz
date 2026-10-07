@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "computer-history_0001",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0002",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0003",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0004",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0005",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0006",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0007",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0008",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0009",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0010",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0011",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0012",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0013",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0014",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0015",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0016",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0017",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0018",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0019",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0020",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0021",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0022",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0023",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0024",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0025",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0026",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0027",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0028",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0029",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0030",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0031",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0032",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0033",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0034",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0035",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0036",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0037",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0038",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0039",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0040",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0041",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0042",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0043",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0044",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0045",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0046",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0047",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0048",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0049",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0050",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0051",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0052",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0053",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0054",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0055",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0056",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0057",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0058",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0059",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0060",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0061",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0062",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0063",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0064",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0065",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0066",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0067",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0068",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0069",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0070",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0071",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0072",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0073",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0074",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0075",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0076",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0077",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0078",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0079",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0080",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0081",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0082",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0083",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0084",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0085",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0086",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0087",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0088",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0089",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0090",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0091",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0092",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0093",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0094",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0095",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0096",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0097",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0098",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0099",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0100",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

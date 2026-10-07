@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "computer-hardware_0001",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0002",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0003",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0004",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0005",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0006",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0007",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0008",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0009",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0010",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0011",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0012",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0013",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0014",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0015",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0016",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0017",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0018",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0019",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0020",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0021",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0022",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0023",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0024",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0025",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0026",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0027",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0028",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0029",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0030",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0031",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0032",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0033",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0034",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0035",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0036",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0037",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0038",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0039",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0040",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0041",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0042",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0043",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0044",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0045",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0046",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0047",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0048",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0049",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0050",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0051",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0052",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0053",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0054",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0055",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0056",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0057",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0058",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0059",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0060",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0061",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0062",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0063",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0064",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0065",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0066",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0067",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0068",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0069",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0070",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0071",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0072",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0073",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0074",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0075",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0076",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0077",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0078",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0079",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0080",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0081",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0082",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0083",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0084",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0085",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0086",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0087",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0088",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0089",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0090",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0091",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0092",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0093",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0094",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0095",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0096",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0097",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0098",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0099",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0100",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

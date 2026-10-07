@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "machine-learning_0001",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0002",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0003",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0004",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0005",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0006",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0007",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0008",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0009",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0010",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0011",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0012",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0013",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0014",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0015",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0016",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0017",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0018",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0019",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0020",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0021",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0022",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0023",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0024",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0025",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0026",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0027",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0028",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0029",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0030",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0031",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0032",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0033",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0034",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0035",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0036",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0037",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0038",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0039",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0040",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0041",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0042",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0043",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0044",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0045",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0046",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0047",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0048",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0049",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0050",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0051",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0052",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0053",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0054",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0055",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0056",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0057",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0058",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0059",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0060",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0061",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0062",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0063",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0064",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0065",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0066",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0067",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0068",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0069",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0070",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0071",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0072",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0073",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0074",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0075",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0076",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0077",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0078",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0079",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0080",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0081",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0082",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0083",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0084",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0085",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0086",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0087",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0088",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0089",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0090",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0091",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0092",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0093",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0094",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0095",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0096",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0097",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0098",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0099",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0100",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

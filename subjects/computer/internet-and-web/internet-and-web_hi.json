@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "internet-and-web_0001",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0002",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0003",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0004",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0005",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0006",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0007",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0008",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0009",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0010",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0011",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0012",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0013",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0014",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0015",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0016",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0017",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0018",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0019",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0020",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0021",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0022",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0023",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0024",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0025",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0026",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0027",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0028",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0029",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0030",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0031",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0032",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0033",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0034",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0035",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0036",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0037",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0038",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0039",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0040",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0041",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0042",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0043",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0044",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0045",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0046",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0047",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0048",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0049",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0050",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0051",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0052",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0053",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0054",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0055",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0056",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0057",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0058",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0059",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0060",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0061",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0062",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0063",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0064",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0065",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0066",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0067",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0068",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0069",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0070",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0071",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0072",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0073",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0074",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0075",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0076",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0077",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0078",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0079",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0080",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0081",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0082",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0083",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0084",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0085",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0086",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0087",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0088",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0089",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0090",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0091",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0092",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0093",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0094",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0095",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0096",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0097",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0098",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0099",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0100",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

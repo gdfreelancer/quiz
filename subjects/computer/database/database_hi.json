@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "database_0001",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0002",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0003",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0004",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0005",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0006",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0007",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0008",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0009",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0010",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0011",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0012",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0013",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0014",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0015",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0016",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0017",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0018",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0019",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0020",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0021",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0022",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0023",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0024",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0025",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0026",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0027",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0028",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0029",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0030",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0031",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0032",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0033",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0034",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0035",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0036",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0037",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0038",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0039",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0040",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0041",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0042",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0043",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0044",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0045",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0046",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0047",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0048",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0049",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0050",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0051",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0052",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0053",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0054",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0055",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0056",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0057",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0058",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0059",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0060",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0061",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0062",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0063",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0064",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0065",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0066",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0067",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0068",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0069",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0070",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0071",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0072",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0073",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0074",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0075",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0076",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0077",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0078",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0079",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0080",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0081",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0082",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0083",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0084",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0085",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0086",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0087",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0088",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0089",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0090",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0091",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0092",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0093",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0094",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0095",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0096",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0097",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0098",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0099",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0100",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "operating-systems_0001",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0002",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0003",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0004",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0005",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0006",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0007",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0008",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0009",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0010",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0011",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0012",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0013",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0014",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0015",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0016",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0017",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0018",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0019",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0020",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0021",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0022",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0023",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0024",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0025",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0026",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0027",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0028",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0029",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0030",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0031",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0032",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0033",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0034",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0035",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0036",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0037",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0038",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0039",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0040",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0041",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0042",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0043",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0044",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0045",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0046",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0047",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0048",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0049",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0050",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0051",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0052",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0053",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0054",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0055",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0056",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0057",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0058",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0059",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0060",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0061",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0062",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0063",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0064",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0065",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0066",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0067",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0068",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0069",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0070",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0071",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0072",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0073",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0074",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0075",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0076",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0077",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0078",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0079",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0080",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0081",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0082",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0083",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0084",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0085",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0086",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0087",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0088",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0089",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0090",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0091",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0092",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0093",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0094",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0095",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0096",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0097",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0098",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0099",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0100",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

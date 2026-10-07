@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "cloud-computing_0001",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0002",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0003",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0004",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0005",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0006",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0007",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0008",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0009",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0010",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0011",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0012",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0013",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0014",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0015",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0016",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0017",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0018",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0019",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0020",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0021",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0022",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0023",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0024",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0025",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0026",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0027",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0028",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0029",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0030",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0031",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0032",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0033",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0034",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0035",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0036",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0037",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0038",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0039",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0040",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0041",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0042",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0043",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0044",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0045",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0046",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0047",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0048",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0049",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0050",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0051",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0052",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0053",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0054",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0055",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0056",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0057",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0058",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0059",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0060",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0061",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0062",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0063",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0064",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0065",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0066",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0067",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0068",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0069",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0070",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0071",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0072",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0073",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0074",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0075",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0076",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0077",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0078",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0079",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0080",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0081",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0082",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0083",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0084",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0085",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0086",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0087",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0088",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0089",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0090",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0091",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0092",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0093",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0094",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0095",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0096",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0097",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0098",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0099",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0100",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

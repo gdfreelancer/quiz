@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "computer-general-knowledge_0001",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0002",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0003",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0004",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0005",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0006",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0007",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0008",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0009",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0010",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0011",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0012",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0013",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0014",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0015",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0016",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0017",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0018",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0019",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0020",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0021",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0022",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0023",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0024",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0025",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0026",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0027",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0028",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0029",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0030",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0031",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0032",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0033",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0034",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0035",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0036",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0037",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0038",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0039",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0040",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0041",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0042",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0043",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0044",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0045",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0046",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0047",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0048",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0049",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0050",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0051",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0052",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0053",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0054",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0055",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0056",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0057",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0058",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0059",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0060",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0061",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0062",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0063",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0064",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0065",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0066",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0067",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0068",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0069",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0070",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0071",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0072",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0073",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0074",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0075",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0076",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0077",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0078",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0079",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0080",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0081",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0082",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0083",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0084",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0085",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0086",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0087",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0088",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0089",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0090",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0091",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0092",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0093",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0094",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0095",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0096",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0097",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0098",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0099",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0100",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

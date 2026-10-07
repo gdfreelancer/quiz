@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "computer-networks_0001",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0002",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0003",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0004",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0005",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0006",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0007",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0008",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0009",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0010",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0011",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0012",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0013",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0014",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0015",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0016",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0017",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0018",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0019",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0020",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0021",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0022",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0023",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0024",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0025",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0026",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0027",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0028",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0029",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0030",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0031",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0032",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0033",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0034",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0035",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0036",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0037",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0038",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0039",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0040",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0041",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0042",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0043",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0044",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0045",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0046",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0047",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0048",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0049",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0050",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0051",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0052",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0053",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0054",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0055",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0056",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0057",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0058",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0059",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0060",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0061",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0062",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0063",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0064",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0065",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0066",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0067",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0068",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0069",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0070",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0071",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0072",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0073",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0074",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0075",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0076",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0077",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0078",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0079",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0080",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0081",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0082",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0083",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0084",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0085",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0086",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0087",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0088",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0089",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0090",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0091",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0092",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0093",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0094",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0095",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0096",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0097",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0098",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0099",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0100",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

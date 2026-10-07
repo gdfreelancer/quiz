@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "computer-general-knowledge_0001",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0002",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0003",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0004",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0005",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0006",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0007",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0008",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0009",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0010",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0011",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0012",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0013",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0014",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0015",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0016",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0017",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0018",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0019",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0020",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0021",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0022",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0023",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0024",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0025",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0026",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0027",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0028",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0029",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0030",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0031",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0032",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0033",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0034",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0035",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0036",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0037",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0038",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0039",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0040",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0041",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0042",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0043",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0044",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0045",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0046",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0047",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0048",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0049",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0050",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0051",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0052",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0053",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0054",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0055",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0056",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0057",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0058",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0059",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0060",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0061",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0062",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0063",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0064",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0065",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0066",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0067",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0068",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0069",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0070",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0071",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0072",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0073",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0074",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0075",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0076",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0077",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0078",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0079",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0080",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0081",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0082",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0083",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0084",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0085",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0086",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0087",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0088",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0089",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0090",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0091",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0092",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0093",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0094",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0095",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0096",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0097",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0098",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0099",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0100",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

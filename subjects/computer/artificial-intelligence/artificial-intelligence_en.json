@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "artificial-intelligence_0001",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0002",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0003",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0004",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0005",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0006",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0007",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0008",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0009",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0010",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0011",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0012",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0013",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0014",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0015",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0016",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0017",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0018",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0019",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0020",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0021",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0022",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0023",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0024",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0025",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0026",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0027",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0028",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0029",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0030",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0031",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0032",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0033",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0034",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0035",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0036",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0037",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0038",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0039",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0040",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0041",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0042",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0043",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0044",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0045",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0046",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0047",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0048",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0049",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0050",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0051",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0052",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0053",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0054",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0055",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0056",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0057",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0058",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0059",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0060",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0061",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0062",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0063",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0064",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0065",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0066",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0067",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0068",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0069",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0070",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0071",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0072",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0073",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0074",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0075",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0076",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0077",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0078",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0079",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0080",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0081",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0082",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0083",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0084",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0085",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0086",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0087",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0088",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0089",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0090",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0091",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0092",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0093",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0094",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0095",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0096",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0097",
+      "question": "Which term is associated with this computer subject?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0098",
+      "question": "Which of the following is part of this computer subject?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0099",
+      "question": "Which term represents a related concept?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0100",
+      "question": "Which concept belongs to this computer subject?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

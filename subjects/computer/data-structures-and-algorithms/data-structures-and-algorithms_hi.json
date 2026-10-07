@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "data-structures-and-algorithms_0001",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0002",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0003",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0004",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0005",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0006",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0007",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0008",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0009",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0010",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0011",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0012",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0013",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0014",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0015",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0016",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0017",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0018",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0019",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0020",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0021",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0022",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0023",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0024",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0025",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0026",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0027",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0028",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0029",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0030",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0031",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0032",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0033",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0034",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0035",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0036",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0037",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0038",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0039",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0040",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0041",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0042",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0043",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0044",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0045",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0046",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0047",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0048",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0049",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0050",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0051",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0052",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0053",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0054",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0055",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0056",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0057",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0058",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0059",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0060",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0061",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0062",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0063",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0064",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0065",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0066",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0067",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0068",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0069",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0070",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0071",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0072",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0073",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0074",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0075",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0076",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0077",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0078",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0079",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0080",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0081",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0082",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0083",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0084",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0085",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0086",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0087",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0088",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0089",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0090",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0091",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0092",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0093",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0094",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0095",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0096",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0097",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0098",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0099",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0100",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "computer-history_0001",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0002",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0003",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0004",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0005",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0006",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0007",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0008",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0009",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0010",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0011",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0012",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0013",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0014",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0015",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0016",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0017",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0018",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0019",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0020",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0021",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0022",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0023",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0024",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0025",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0026",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0027",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0028",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0029",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0030",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0031",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0032",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0033",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0034",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0035",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0036",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0037",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0038",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0039",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0040",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0041",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0042",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0043",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0044",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0045",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0046",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0047",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0048",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0049",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0050",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0051",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0052",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0053",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0054",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0055",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0056",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0057",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0058",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0059",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0060",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0061",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0062",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0063",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0064",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0065",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0066",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0067",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0068",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0069",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0070",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0071",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0072",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0073",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0074",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0075",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0076",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0077",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0078",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0079",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0080",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0081",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0082",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0083",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0084",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0085",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0086",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0087",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0088",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0089",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0090",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0091",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0092",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0093",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0094",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0095",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0096",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0097",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0098",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0099",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0100",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

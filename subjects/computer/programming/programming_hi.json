@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "programming_0001",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0002",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0003",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0004",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0005",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0006",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0007",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0008",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0009",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0010",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0011",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0012",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0013",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0014",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0015",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0016",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0017",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0018",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0019",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0020",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0021",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0022",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0023",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0024",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0025",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0026",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0027",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0028",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0029",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0030",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0031",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0032",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0033",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0034",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0035",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0036",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0037",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0038",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0039",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0040",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0041",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0042",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0043",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0044",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0045",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0046",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0047",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0048",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0049",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0050",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0051",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0052",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0053",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0054",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0055",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0056",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0057",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0058",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0059",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0060",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0061",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0062",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0063",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0064",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0065",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0066",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0067",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0068",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0069",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0070",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0071",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0072",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0073",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0074",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0075",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0076",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0077",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0078",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0079",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0080",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0081",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0082",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0083",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0084",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0085",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0086",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0087",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0088",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0089",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0090",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0091",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0092",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0093",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0094",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0095",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0096",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0097",
+      "question": "कौन सा शब्द इस कंप्यूटर विषय से संबंधित है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0098",
+      "question": "निम्नलिखित में से कौन सा शब्द इस कंप्यूटर विषय का भाग है?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0099",
+      "question": "कौन सा शब्द संबंधित अवधारणा को दर्शाता है?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0100",
+      "question": "इस कंप्यूटर विषय में कौन सी अवधारणा आती है?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

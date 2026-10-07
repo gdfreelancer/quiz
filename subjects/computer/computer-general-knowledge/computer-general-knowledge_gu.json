@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "computer-general-knowledge_0001",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0002",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0003",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0004",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0005",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0006",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0007",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0008",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0009",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0010",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0011",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0012",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0013",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0014",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0015",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0016",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0017",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0018",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0019",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0020",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0021",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0022",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0023",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0024",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0025",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0026",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0027",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0028",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0029",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0030",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0031",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0032",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0033",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0034",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0035",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0036",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0037",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0038",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0039",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0040",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0041",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0042",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0043",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0044",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0045",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0046",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0047",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0048",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0049",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0050",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0051",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0052",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0053",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0054",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0055",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0056",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0057",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0058",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0059",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0060",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0061",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0062",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0063",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0064",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0065",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0066",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0067",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0068",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0069",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0070",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0071",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0072",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0073",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0074",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0075",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0076",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0077",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0078",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0079",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0080",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0081",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0082",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0083",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0084",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0085",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0086",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0087",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0088",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0089",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0090",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0091",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0092",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0093",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0094",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0095",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0096",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0097",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0098",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0099",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0100",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

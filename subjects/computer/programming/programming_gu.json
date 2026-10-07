@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "programming_0001",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0002",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0003",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0004",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0005",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0006",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0007",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0008",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0009",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0010",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0011",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0012",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0013",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0014",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0015",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0016",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0017",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0018",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0019",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0020",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0021",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0022",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0023",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0024",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0025",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0026",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0027",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0028",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0029",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0030",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0031",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0032",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0033",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0034",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0035",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0036",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0037",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0038",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0039",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0040",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0041",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0042",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0043",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0044",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0045",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0046",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0047",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0048",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0049",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0050",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0051",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0052",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0053",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0054",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0055",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0056",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0057",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0058",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0059",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0060",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0061",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0062",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0063",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0064",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0065",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0066",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0067",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0068",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0069",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0070",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0071",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0072",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0073",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0074",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0075",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0076",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0077",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0078",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0079",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0080",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0081",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0082",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0083",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0084",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0085",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0086",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0087",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0088",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0089",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0090",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0091",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0092",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0093",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0094",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0095",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0096",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0097",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0098",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0099",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0100",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

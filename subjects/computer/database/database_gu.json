@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "id": "database_0001",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0002",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0003",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0004",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0005",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0006",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0007",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0008",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0009",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0010",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0011",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0012",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0013",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0014",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0015",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0016",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0017",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0018",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0019",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0020",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0021",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0022",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0023",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0024",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0025",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0026",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0027",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0028",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0029",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0030",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0031",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0032",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0033",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0034",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0035",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0036",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0037",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0038",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0039",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0040",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0041",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0042",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0043",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0044",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0045",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0046",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0047",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0048",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0049",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0050",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0051",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0052",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0053",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0054",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0055",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0056",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0057",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0058",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0059",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0060",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0061",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0062",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0063",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0064",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0065",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0066",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0067",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0068",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0069",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0070",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0071",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0072",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0073",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0074",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0075",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0076",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0077",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0078",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0079",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0080",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0081",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0082",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0083",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0084",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0085",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0086",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0087",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0088",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0089",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0090",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0091",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0092",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0093",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0094",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0095",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0096",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0097",
+      "question": "કયો શબ્દ આ કમ્પ્યુટર વિષય સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0098",
+      "question": "નીચેનામાંથી કયો શબ્દ આ કમ્પ્યુટર વિષયનો ભાગ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0099",
+      "question": "કયો શબ્દ સંબંધિત ખ્યાલ દર્શાવે છે?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0100",
+      "question": "આ કમ્પ્યુટર વિષયમાં કયો ખ્યાલ આવે છે?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
