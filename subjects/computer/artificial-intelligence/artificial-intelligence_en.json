@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "artificial-intelligence_0301",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0302",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0303",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0304",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0305",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0306",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0307",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0308",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0309",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0310",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0311",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0312",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0313",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0314",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0315",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0316",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0317",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0318",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0319",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0320",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0321",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0322",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0323",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0324",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0325",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0326",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0327",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0328",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0329",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0330",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0331",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0332",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0333",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0334",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0335",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0336",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0337",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0338",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0339",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0340",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0341",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0342",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0343",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0344",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0345",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0346",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0347",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0348",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0349",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0350",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0351",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0352",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0353",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0354",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0355",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0356",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0357",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0358",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0359",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0360",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0361",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0362",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0363",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0364",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0365",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0366",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0367",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0368",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0369",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0370",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0371",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0372",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0373",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0374",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0375",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0376",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0377",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0378",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0379",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0380",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0381",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0382",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0383",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0384",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0385",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0386",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0387",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0388",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0389",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0390",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0391",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0392",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0393",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0394",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0395",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0396",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0397",
+      "question": "Which term is most closely associated with Artificial Intelligence?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0398",
+      "question": "Which term is a recognized concept in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0399",
+      "question": "Which term belongs to Artificial Intelligence?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0400",
+      "question": "Which term is commonly used in Artificial Intelligence?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
