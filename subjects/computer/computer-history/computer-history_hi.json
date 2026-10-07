@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "computer-history_0401",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0402",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0403",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0404",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0405",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0406",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0407",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0408",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0409",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0410",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0411",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0412",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0413",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0414",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0415",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0416",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0417",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0418",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0419",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0420",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0421",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0422",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0423",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0424",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0425",
+      "question": "कंप्यूटर इतिहास से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0426",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0427",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0428",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0429",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0430",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0431",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0432",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0433",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0434",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0435",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0436",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0437",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0438",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0439",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0440",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0441",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0442",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0443",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0444",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0445",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0446",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0447",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0448",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0449",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0450",
+      "question": "कंप्यूटर इतिहास में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0451",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0452",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0453",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0454",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0455",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0456",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0457",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0458",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0459",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0460",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0461",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0462",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0463",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0464",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0465",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0466",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0467",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0468",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0469",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0470",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0471",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0472",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0473",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0474",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0475",
+      "question": "कंप्यूटर इतिहास का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0476",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0477",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0478",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0479",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0480",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0481",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0482",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0483",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0484",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0485",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0486",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0487",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0488",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0489",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0490",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0491",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0492",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0493",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0494",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0495",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0496",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0497",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0498",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0499",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0500",
+      "question": "निम्नलिखित में से कौन सा शब्द कंप्यूटर इतिहास के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
