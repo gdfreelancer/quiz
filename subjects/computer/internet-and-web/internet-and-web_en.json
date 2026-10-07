@@ -2199,6 +2199,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "internet-and-web_0101",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0102",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0103",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0104",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0105",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0106",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0107",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0108",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0109",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0110",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0111",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0112",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0113",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0114",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0115",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0116",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0117",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0118",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0119",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0120",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0121",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0122",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0123",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0124",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0125",
+      "question": "Which term is most closely associated with Internet and Web?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0126",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0127",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0128",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0129",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0130",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0131",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0132",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0133",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0134",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0135",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0136",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0137",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0138",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0139",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0140",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0141",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0142",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0143",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0144",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0145",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0146",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0147",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0148",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0149",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0150",
+      "question": "Which term is a recognized concept in Internet and Web?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0151",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0152",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0153",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0154",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0155",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0156",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0157",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0158",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0159",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0160",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0161",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0162",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0163",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0164",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0165",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0166",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0167",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0168",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0169",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0170",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0171",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0172",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0173",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0174",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0175",
+      "question": "Which term belongs to Internet and Web?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0176",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0177",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0178",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0179",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0180",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0181",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0182",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0183",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0184",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0185",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0186",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0187",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0188",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0189",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0190",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0191",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0192",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0193",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0194",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0195",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0196",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0197",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0198",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0199",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0200",
+      "question": "Which term is commonly used in Internet and Web?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
