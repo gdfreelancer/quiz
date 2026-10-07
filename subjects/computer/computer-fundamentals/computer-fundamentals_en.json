@@ -6599,6 +6599,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-fundamentals_0301",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0302",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0303",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0304",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0305",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0306",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0307",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0308",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0309",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0310",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0311",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0312",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0313",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "desktop",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0314",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0315",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0316",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0317",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0318",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0319",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0320",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0321",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": true
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0322",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0323",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0324",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0325",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0326",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0327",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0328",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0329",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0330",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0331",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0332",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0333",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "output",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0334",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0335",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0336",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0337",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0338",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0339",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0340",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0341",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "data",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0342",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0343",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0344",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0345",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0346",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0347",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0348",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0349",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0350",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0351",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0352",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0353",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "binary",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0354",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0355",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0356",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0357",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0358",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0359",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0360",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0361",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0362",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0363",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0364",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0365",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0366",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0367",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0368",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0369",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0370",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0371",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0372",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0373",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0374",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0375",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0376",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0377",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "byte",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0378",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0379",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0380",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0381",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0382",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0383",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0384",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0385",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0386",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0387",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0388",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0389",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0390",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0391",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0392",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0393",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "booting",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0394",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0395",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0396",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0397",
+      "question": "Which term is most closely associated with Computer Fundamentals?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0398",
+      "question": "Which term is a recognized concept in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0399",
+      "question": "Which term belongs to Computer Fundamentals?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0400",
+      "question": "Which term is commonly used in Computer Fundamentals?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
