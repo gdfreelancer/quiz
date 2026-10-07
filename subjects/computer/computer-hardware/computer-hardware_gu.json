@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-hardware_0201",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0202",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0203",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0204",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0205",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0206",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0207",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0208",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0209",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0210",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0211",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0212",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0213",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0214",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0215",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0216",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0217",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0218",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0219",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0220",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0221",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0222",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0223",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0224",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0225",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0226",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0227",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0228",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0229",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0230",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0231",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0232",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0233",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0234",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0235",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0236",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0237",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0238",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0239",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0240",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0241",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0242",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0243",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0244",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0245",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0246",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0247",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0248",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0249",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0250",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0251",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0252",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0253",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0254",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0255",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0256",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0257",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0258",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0259",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0260",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0261",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0262",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0263",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0264",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0265",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0266",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0267",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0268",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0269",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0270",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0271",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0272",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0273",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0274",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0275",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0276",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0277",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0278",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0279",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0280",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0281",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0282",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0283",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0284",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0285",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0286",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0287",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0288",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0289",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0290",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0291",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0292",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0293",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0294",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0295",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0296",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0297",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0298",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0299",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0300",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર હાર્ડવેર?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
