@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "programming_0401",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0402",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0403",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0404",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0405",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0406",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0407",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0408",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0409",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0410",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0411",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0412",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0413",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0414",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0415",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0416",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0417",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0418",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0419",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0420",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0421",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0422",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0423",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0424",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0425",
+      "question": "प्रोग्रामिंग से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0426",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0427",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0428",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0429",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0430",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0431",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0432",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0433",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0434",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0435",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0436",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0437",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0438",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0439",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0440",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0441",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0442",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0443",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0444",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0445",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0446",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0447",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0448",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0449",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0450",
+      "question": "प्रोग्रामिंग में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0451",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0452",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0453",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0454",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0455",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0456",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0457",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0458",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0459",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0460",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0461",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0462",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0463",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0464",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0465",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0466",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0467",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0468",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0469",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0470",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0471",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0472",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0473",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0474",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0475",
+      "question": "प्रोग्रामिंग का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0476",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0477",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0478",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0479",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0480",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0481",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0482",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0483",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0484",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0485",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0486",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0487",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0488",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0489",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0490",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0491",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0492",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0493",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0494",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0495",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0496",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0497",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0498",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0499",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0500",
+      "question": "निम्नलिखित में से कौन सा शब्द प्रोग्रामिंग के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
