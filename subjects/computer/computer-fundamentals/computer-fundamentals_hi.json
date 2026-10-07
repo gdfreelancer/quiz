@@ -6599,6 +6599,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-fundamentals_0301",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0302",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0303",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0304",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0305",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0306",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0307",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0308",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0309",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0310",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0311",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0312",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0313",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "desktop",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0314",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0315",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0316",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0317",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0318",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0319",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0320",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0321",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": true
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0322",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0323",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0324",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0325",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0326",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0327",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0328",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0329",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0330",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0331",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0332",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0333",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "output",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0334",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0335",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0336",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0337",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0338",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0339",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0340",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0341",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "data",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0342",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0343",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0344",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0345",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0346",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0347",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0348",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0349",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0350",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0351",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0352",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0353",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "binary",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0354",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0355",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0356",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0357",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0358",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0359",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0360",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0361",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0362",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0363",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0364",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0365",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0366",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0367",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0368",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0369",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0370",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0371",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0372",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0373",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0374",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0375",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0376",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0377",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "byte",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0378",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0379",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0380",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0381",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0382",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0383",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0384",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0385",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0386",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0387",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0388",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0389",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "icon",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0390",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0391",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0392",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0393",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "booting",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0394",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0395",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0396",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0397",
+      "question": "कौन सा शब्द कंप्यूटर की मूल बातों से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0398",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0399",
+      "question": "कंप्यूटर की मूल बातों का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0400",
+      "question": "कंप्यूटर की मूल बातों में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
