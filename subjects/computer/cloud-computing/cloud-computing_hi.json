@@ -2199,6 +2199,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "cloud-computing_0101",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0102",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0103",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0104",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0105",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0106",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0107",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0108",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0109",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0110",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0111",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0112",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0113",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0114",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0115",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0116",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0117",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0118",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0119",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0120",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0121",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0122",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0123",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0124",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0125",
+      "question": "कौन सा शब्द मुख्य रूप से क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0126",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0127",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0128",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0129",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0130",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0131",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0132",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0133",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0134",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0135",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0136",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0137",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0138",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0139",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0140",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0141",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0142",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0143",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0144",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0145",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0146",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0147",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0148",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0149",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0150",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0151",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0152",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0153",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0154",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0155",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0156",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0157",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0158",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0159",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0160",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0161",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0162",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0163",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0164",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0165",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0166",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0167",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0168",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0169",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0170",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0171",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0172",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0173",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0174",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0175",
+      "question": "कौन सा शब्द इसका हिस्सा है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0176",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0177",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0178",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0179",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0180",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0181",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0182",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0183",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0184",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0185",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0186",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0187",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0188",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0189",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0190",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0191",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0192",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0193",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0194",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0195",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0196",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0197",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0198",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0199",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0200",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है क्लाउड कंप्यूटिंग?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
