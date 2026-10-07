@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "computer-software_0401",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0402",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0403",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0404",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0405",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0406",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0407",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0408",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0409",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0410",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0411",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0412",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0413",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0414",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0415",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0416",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "malware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0417",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "virus",
+          "isCorrect": false
+        },
+        {
+          "text": "worm",
+          "isCorrect": false
+        },
+        {
+          "text": "trojan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0418",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "ransomware",
+          "isCorrect": false
+        },
+        {
+          "text": "phishing",
+          "isCorrect": false
+        },
+        {
+          "text": "spoofing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0419",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "decryption",
+          "isCorrect": false
+        },
+        {
+          "text": "authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0420",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "authorization",
+          "isCorrect": false
+        },
+        {
+          "text": "password",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0421",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "digital certificate",
+          "isCorrect": false
+        },
+        {
+          "text": "public key",
+          "isCorrect": false
+        },
+        {
+          "text": "private key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0422",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "hashing",
+          "isCorrect": false
+        },
+        {
+          "text": "vulnerability",
+          "isCorrect": false
+        },
+        {
+          "text": "exploit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0423",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "patch",
+          "isCorrect": false
+        },
+        {
+          "text": "intrusion detection",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0424",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "social engineering",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0425",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0426",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0427",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0428",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0429",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0430",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0431",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0432",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0433",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0434",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0435",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0436",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0437",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0438",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0439",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0440",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0441",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0442",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0443",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0444",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0445",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0446",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0447",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0448",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0449",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0450",
+      "question": "Which of the following is a common concept in Computer Software?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0451",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0452",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0453",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0454",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0455",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0456",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0457",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0458",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0459",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0460",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0461",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0462",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0463",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0464",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0465",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0466",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0467",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0468",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0469",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0470",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0471",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0472",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0473",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0474",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0475",
+      "question": "Which term is commonly used when studying Computer Software?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0476",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0477",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0478",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0479",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0480",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0481",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0482",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0483",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0484",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0485",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0486",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0487",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0488",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0489",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0490",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0491",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0492",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0493",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0494",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0495",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0496",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0497",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0498",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0499",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0500",
+      "question": "Which item belongs to the field of Computer Software?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
