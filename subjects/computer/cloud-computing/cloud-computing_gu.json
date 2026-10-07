@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "cloud-computing_0401",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0402",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0403",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0404",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0405",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0406",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0407",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0408",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0409",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0410",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0411",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0412",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0413",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0414",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0415",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0416",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0417",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0418",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0419",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0420",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0421",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0422",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0423",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0424",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0425",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0426",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0427",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0428",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0429",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0430",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0431",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0432",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0433",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0434",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0435",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0436",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0437",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0438",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0439",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0440",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0441",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0442",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0443",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0444",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0445",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0446",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0447",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0448",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0449",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0450",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0451",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0452",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0453",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0454",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0455",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0456",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0457",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0458",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0459",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0460",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0461",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0462",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0463",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0464",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0465",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0466",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0467",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0468",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0469",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0470",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0471",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0472",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0473",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0474",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0475",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0476",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0477",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0478",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0479",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0480",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0481",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0482",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0483",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0484",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0485",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0486",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0487",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0488",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0489",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0490",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0491",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0492",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0493",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0494",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0495",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0496",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0497",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0498",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0499",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0500",
+      "question": "નીચેનામાંથી કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
