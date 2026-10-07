@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-fundamentals_0201",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0202",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0203",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0204",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0205",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0206",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0207",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0208",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0209",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0210",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0211",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0212",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0213",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0214",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0215",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0216",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0217",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0218",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0219",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0220",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0221",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0222",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0223",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0224",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0225",
+      "question": "કયો શબ્દ મુખ્યત્વે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0226",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0227",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0228",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0229",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0230",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0231",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0232",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0233",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0234",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0235",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0236",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0237",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0238",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0239",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0240",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0241",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0242",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0243",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0244",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0245",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0246",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0247",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0248",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0249",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0250",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0251",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0252",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0253",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0254",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0255",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0256",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0257",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0258",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0259",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0260",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0261",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0262",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0263",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0264",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0265",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0266",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0267",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0268",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0269",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0270",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0271",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0272",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0273",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0274",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0275",
+      "question": "કયો શબ્દનો ભાગ છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0276",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0277",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0278",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0279",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0280",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0281",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0282",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0283",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0284",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0285",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0286",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0287",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0288",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0289",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0290",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0291",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0292",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0293",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0294",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "database management system",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0295",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "middleware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0296",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "backup software",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": true
+        },
+        {
+          "text": "compression software",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0297",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0298",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0299",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-fundamentals_0300",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે કમ્પ્યુટર મૂળભૂત બાબતો?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
