@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "computer-history_0301",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0302",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0303",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0304",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0305",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0306",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0307",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0308",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0309",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0310",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0311",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0312",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0313",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0314",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0315",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0316",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0317",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0318",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0319",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0320",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0321",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0322",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0323",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0324",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0325",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0326",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0327",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0328",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0329",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0330",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0331",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0332",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0333",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0334",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0335",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0336",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0337",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0338",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0339",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0340",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0341",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0342",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0343",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0344",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0345",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0346",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0347",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0348",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0349",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0350",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0351",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0352",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0353",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0354",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0355",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0356",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0357",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0358",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0359",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0360",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0361",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0362",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0363",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0364",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0365",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0366",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0367",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0368",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0369",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0370",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0371",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0372",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0373",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0374",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0375",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0376",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0377",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0378",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0379",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0380",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0381",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0382",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0383",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0384",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0385",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "ARPANET",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0386",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0387",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0388",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0389",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "personal computer",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0390",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0391",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0392",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0393",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0394",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0395",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0396",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0397",
+      "question": "कौन सा शब्द कंप्यूटर इतिहास से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "smartphone",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0398",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0399",
+      "question": "कंप्यूटर इतिहास का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-history_0400",
+      "question": "कंप्यूटर इतिहास में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
