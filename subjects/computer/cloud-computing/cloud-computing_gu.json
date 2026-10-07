@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "cloud-computing_0301",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0302",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0303",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0304",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0305",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0306",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0307",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0308",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0309",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0310",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0311",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0312",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0313",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0314",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0315",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0316",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0317",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0318",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0319",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0320",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0321",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0322",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0323",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0324",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0325",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0326",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0327",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0328",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0329",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0330",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0331",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0332",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0333",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0334",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0335",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0336",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0337",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0338",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0339",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0340",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0341",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0342",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0343",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0344",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0345",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0346",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0347",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0348",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0349",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0350",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0351",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0352",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0353",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0354",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0355",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0356",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0357",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0358",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0359",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0360",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0361",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0362",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0363",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0364",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0365",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0366",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0367",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0368",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0369",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0370",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0371",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0372",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0373",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0374",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0375",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0376",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0377",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0378",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0379",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0380",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0381",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0382",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0383",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0384",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0385",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0386",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0387",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0388",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0389",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0390",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0391",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0392",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0393",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0394",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0395",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0396",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0397",
+      "question": "કયો શબ્દ ક્લાઉડ કમ્પ્યુટિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0398",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0399",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0400",
+      "question": "ક્લાઉડ કમ્પ્યુટિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
