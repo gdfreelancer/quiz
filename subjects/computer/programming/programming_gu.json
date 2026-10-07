@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "programming_0201",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0202",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0203",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0204",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0205",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0206",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0207",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0208",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0209",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0210",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0211",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0212",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0213",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0214",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0215",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0216",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0217",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0218",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0219",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0220",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0221",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0222",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0223",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0224",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0225",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0226",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0227",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0228",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0229",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0230",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0231",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0232",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0233",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0234",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0235",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0236",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0237",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0238",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0239",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0240",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0241",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0242",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0243",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0244",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0245",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0246",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0247",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0248",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0249",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0250",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0251",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0252",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0253",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0254",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0255",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0256",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0257",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0258",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0259",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0260",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0261",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0262",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0263",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0264",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0265",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0266",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0267",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0268",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0269",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0270",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0271",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0272",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0273",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0274",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0275",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0276",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0277",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0278",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0279",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0280",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0281",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0282",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0283",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0284",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0285",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0286",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0287",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0288",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0289",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0290",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0291",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0292",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0293",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0294",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0295",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0296",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "programming_0297",
+      "question": "કયો શબ્દ પ્રોગ્રામિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0298",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0299",
+      "question": "પ્રોગ્રામિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "programming_0300",
+      "question": "પ્રોગ્રામિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
