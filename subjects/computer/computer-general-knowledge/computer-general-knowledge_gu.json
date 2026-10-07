@@ -8802,80 +8802,102 @@
     },
     {
       "id": "computer-general-knowledge_0401",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
         {
           "text": "CPU",
           "isCorrect": true
         },
         {
-          "text": "HTML",
+          "text": "kernel",
           "isCorrect": false
         },
         {
-          "text": "DNS",
+          "text": "router",
           "isCorrect": false
         },
         {
-          "text": "scanner",
+          "text": "database",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0402",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
         {
           "text": "RAM",
           "isCorrect": true
         },
         {
-          "text": "Wi-Fi",
+          "text": "variable",
           "isCorrect": false
         },
         {
-          "text": "firewall",
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0403",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
-        {
-          "text": "Bluetooth",
-          "isCorrect": false
-        },
         {
           "text": "ROM",
           "isCorrect": true
         },
         {
-          "text": "database",
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0404",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
         {
-          "text": "LAN",
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "keyboard",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0405",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "USB",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         },
         {
@@ -8883,109 +8905,65 @@
           "isCorrect": false
         },
         {
-          "text": "GPU",
-          "isCorrect": true
-        }
-      ]
-    },
-    {
-      "id": "computer-general-knowledge_0405",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
-      "options": [
-        {
-          "text": "USB",
-          "isCorrect": true
-        },
-        {
-          "text": "WAN",
-          "isCorrect": false
-        },
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
-        {
-          "text": "operating system",
+          "text": "Linux",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0406",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "IP address",
-          "isCorrect": false
-        },
         {
           "text": "URL",
           "isCorrect": true
         },
         {
-          "text": "printer",
+          "text": "ERP",
           "isCorrect": false
         },
         {
-          "text": "browser",
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0407",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "DNS",
-          "isCorrect": false
-        },
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
         {
           "text": "HTTP",
           "isCorrect": true
         },
         {
-          "text": "CPU",
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0408",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "Wi-Fi",
-          "isCorrect": false
-        },
-        {
-          "text": "firewall",
-          "isCorrect": false
-        },
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
         {
           "text": "HTML",
           "isCorrect": true
-        }
-      ]
-    },
-    {
-      "id": "computer-general-knowledge_0409",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
-      "options": [
-        {
-          "text": "SSD",
-          "isCorrect": true
         },
         {
-          "text": "Bluetooth",
+          "text": "router",
           "isCorrect": false
         },
         {
@@ -8993,417 +8971,439 @@
           "isCorrect": false
         },
         {
-          "text": "ROM",
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-general-knowledge_0409",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0410",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
         {
           "text": "HDD",
           "isCorrect": true
         },
         {
-          "text": "algorithm",
+          "text": "virtual machine",
           "isCorrect": false
         },
         {
-          "text": "GPU",
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0411",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
-        {
-          "text": "operating system",
-          "isCorrect": false
-        },
         {
           "text": "LAN",
           "isCorrect": true
         },
         {
-          "text": "USB",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0412",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
-        {
-          "text": "browser",
-          "isCorrect": false
-        },
-        {
-          "text": "URL",
-          "isCorrect": false
-        },
         {
           "text": "WAN",
           "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0413",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
         {
           "text": "IP address",
           "isCorrect": true
         },
         {
-          "text": "scanner",
-          "isCorrect": false
-        },
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
-        {
           "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0414",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "firewall",
-          "isCorrect": false
-        },
         {
           "text": "DNS",
           "isCorrect": true
         },
         {
-          "text": "RAM",
+          "text": "cloud computing",
           "isCorrect": false
         },
         {
-          "text": "HTML",
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0415",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "database",
-          "isCorrect": false
-        },
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
         {
           "text": "Wi-Fi",
           "isCorrect": true
         },
         {
-          "text": "SSD",
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0416",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "algorithm",
-          "isCorrect": false
-        },
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
         {
           "text": "Bluetooth",
           "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0417",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
         {
           "text": "keyboard",
           "isCorrect": true
         },
         {
-          "text": "operating system",
+          "text": "compiler",
           "isCorrect": false
         },
         {
-          "text": "USB",
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "LAN",
+          "text": "primary key",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0418",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "browser",
-          "isCorrect": false
-        },
         {
           "text": "monitor",
           "isCorrect": true
         },
         {
-          "text": "URL",
+          "text": "firewall",
           "isCorrect": false
         },
         {
-          "text": "WAN",
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0419",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
-        {
-          "text": "HTTP",
-          "isCorrect": false
-        },
         {
           "text": "printer",
           "isCorrect": true
         },
         {
-          "text": "IP address",
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0420",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
         {
-          "text": "RAM",
-          "isCorrect": false
-        },
-        {
-          "text": "HTML",
-          "isCorrect": false
+          "text": "scanner",
+          "isCorrect": true
         },
         {
           "text": "DNS",
           "isCorrect": false
         },
         {
-          "text": "scanner",
-          "isCorrect": true
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0421",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
         {
           "text": "firewall",
           "isCorrect": true
         },
         {
-          "text": "ROM",
+          "text": "kernel",
           "isCorrect": false
         },
         {
-          "text": "SSD",
+          "text": "router",
           "isCorrect": false
         },
         {
-          "text": "Wi-Fi",
+          "text": "database",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0422",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
         {
           "text": "database",
           "isCorrect": true
         },
         {
-          "text": "HDD",
+          "text": "variable",
           "isCorrect": false
         },
         {
-          "text": "Bluetooth",
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0423",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "USB",
-          "isCorrect": false
-        },
-        {
-          "text": "LAN",
-          "isCorrect": false
-        },
         {
           "text": "algorithm",
           "isCorrect": true
         },
         {
-          "text": "keyboard",
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0424",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
-        {
-          "text": "URL",
-          "isCorrect": false
-        },
-        {
-          "text": "WAN",
-          "isCorrect": false
-        },
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
         {
           "text": "operating system",
           "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0425",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
       "options": [
         {
           "text": "browser",
           "isCorrect": true
         },
         {
-          "text": "HTTP",
+          "text": "dataset",
           "isCorrect": false
         },
         {
-          "text": "IP address",
+          "text": "algorithm",
           "isCorrect": false
         },
         {
-          "text": "printer",
+          "text": "Linux",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0426",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "HTML",
-          "isCorrect": false
-        },
         {
           "text": "CPU",
           "isCorrect": true
         },
         {
-          "text": "DNS",
+          "text": "ERP",
           "isCorrect": false
         },
         {
-          "text": "scanner",
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0427",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
-        {
-          "text": "Wi-Fi",
-          "isCorrect": false
-        },
         {
           "text": "RAM",
           "isCorrect": true
         },
         {
-          "text": "firewall",
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0428",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
         {
-          "text": "HDD",
-          "isCorrect": false
+          "text": "ROM",
+          "isCorrect": true
         },
         {
-          "text": "Bluetooth",
+          "text": "router",
           "isCorrect": false
         },
         {
@@ -9411,657 +9411,653 @@
           "isCorrect": false
         },
         {
-          "text": "ROM",
-          "isCorrect": true
+          "text": "variable",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0429",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
         {
           "text": "GPU",
           "isCorrect": true
         },
         {
-          "text": "LAN",
+          "text": "array",
           "isCorrect": false
         },
         {
-          "text": "keyboard",
+          "text": "neural network",
           "isCorrect": false
         },
         {
-          "text": "algorithm",
+          "text": "encryption",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0430",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "WAN",
-          "isCorrect": false
-        },
         {
           "text": "USB",
           "isCorrect": true
         },
         {
-          "text": "monitor",
+          "text": "virtual machine",
           "isCorrect": false
         },
         {
-          "text": "operating system",
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0431",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "IP address",
-          "isCorrect": false
-        },
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
         {
           "text": "URL",
           "isCorrect": true
         },
         {
-          "text": "browser",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0432",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "DNS",
-          "isCorrect": false
-        },
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
         {
           "text": "HTTP",
           "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0433",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
         {
           "text": "HTML",
           "isCorrect": true
         },
         {
-          "text": "Wi-Fi",
+          "text": "HTTP",
           "isCorrect": false
         },
         {
-          "text": "firewall",
+          "text": "DNS",
           "isCorrect": false
         },
         {
-          "text": "RAM",
+          "text": "server",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0434",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "Bluetooth",
-          "isCorrect": false
-        },
         {
           "text": "SSD",
           "isCorrect": true
         },
         {
-          "text": "database",
+          "text": "cloud computing",
           "isCorrect": false
         },
         {
-          "text": "ROM",
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0435",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
-        {
-          "text": "algorithm",
-          "isCorrect": false
-        },
         {
           "text": "HDD",
           "isCorrect": true
         },
         {
-          "text": "GPU",
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0436",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
-        {
-          "text": "operating system",
-          "isCorrect": false
-        },
-        {
-          "text": "USB",
-          "isCorrect": false
-        },
         {
           "text": "LAN",
           "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0437",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
         {
           "text": "WAN",
           "isCorrect": true
         },
         {
-          "text": "printer",
+          "text": "compiler",
           "isCorrect": false
         },
         {
-          "text": "browser",
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "URL",
+          "text": "primary key",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0438",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
         {
           "text": "IP address",
           "isCorrect": true
         },
         {
-          "text": "CPU",
+          "text": "firewall",
           "isCorrect": false
         },
         {
-          "text": "HTTP",
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0439",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "firewall",
-          "isCorrect": false
-        },
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
         {
           "text": "DNS",
           "isCorrect": true
         },
         {
-          "text": "HTML",
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0440",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "database",
-          "isCorrect": false
-        },
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
         {
           "text": "Wi-Fi",
           "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0441",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
         {
           "text": "Bluetooth",
           "isCorrect": true
         },
         {
-          "text": "algorithm",
+          "text": "kernel",
           "isCorrect": false
         },
         {
-          "text": "GPU",
+          "text": "router",
           "isCorrect": false
         },
         {
-          "text": "HDD",
+          "text": "database",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0442",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "operating system",
-          "isCorrect": false
-        },
         {
           "text": "keyboard",
           "isCorrect": true
         },
         {
-          "text": "USB",
+          "text": "variable",
           "isCorrect": false
         },
         {
-          "text": "LAN",
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0443",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "browser",
-          "isCorrect": false
-        },
-        {
-          "text": "URL",
-          "isCorrect": false
-        },
         {
           "text": "monitor",
           "isCorrect": true
         },
         {
-          "text": "WAN",
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0444",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
-        {
-          "text": "HTTP",
-          "isCorrect": false
-        },
-        {
-          "text": "IP address",
-          "isCorrect": false
-        },
         {
           "text": "printer",
           "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0445",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
         {
           "text": "scanner",
           "isCorrect": true
         },
         {
-          "text": "RAM",
+          "text": "dataset",
           "isCorrect": false
         },
         {
-          "text": "HTML",
+          "text": "algorithm",
           "isCorrect": false
         },
         {
-          "text": "DNS",
+          "text": "Linux",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0446",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
         {
           "text": "firewall",
           "isCorrect": true
         },
         {
-          "text": "SSD",
+          "text": "ERP",
           "isCorrect": false
         },
         {
-          "text": "Wi-Fi",
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0447",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
         {
           "text": "database",
           "isCorrect": true
         },
         {
-          "text": "Bluetooth",
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0448",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "USB",
-          "isCorrect": false
-        },
-        {
-          "text": "LAN",
-          "isCorrect": false
-        },
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
         {
           "text": "algorithm",
           "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0449",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
         {
           "text": "operating system",
           "isCorrect": true
         },
         {
-          "text": "URL",
+          "text": "array",
           "isCorrect": false
         },
         {
-          "text": "WAN",
+          "text": "neural network",
           "isCorrect": false
         },
         {
-          "text": "monitor",
+          "text": "encryption",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0450",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
       "options": [
-        {
-          "text": "HTTP",
-          "isCorrect": false
-        },
         {
           "text": "browser",
           "isCorrect": true
         },
         {
-          "text": "IP address",
+          "text": "virtual machine",
           "isCorrect": false
         },
         {
-          "text": "printer",
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0451",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "HTML",
-          "isCorrect": false
-        },
-        {
-          "text": "DNS",
-          "isCorrect": false
-        },
         {
           "text": "CPU",
           "isCorrect": true
         },
         {
-          "text": "scanner",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0452",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
-        {
-          "text": "Wi-Fi",
-          "isCorrect": false
-        },
-        {
-          "text": "firewall",
-          "isCorrect": false
-        },
         {
           "text": "RAM",
           "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0453",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
         {
           "text": "ROM",
           "isCorrect": true
         },
         {
-          "text": "HDD",
+          "text": "HTTP",
           "isCorrect": false
         },
         {
-          "text": "Bluetooth",
+          "text": "DNS",
           "isCorrect": false
         },
         {
-          "text": "database",
+          "text": "server",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0454",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "LAN",
-          "isCorrect": false
-        },
         {
           "text": "GPU",
           "isCorrect": true
         },
         {
-          "text": "keyboard",
+          "text": "cloud computing",
           "isCorrect": false
         },
         {
-          "text": "algorithm",
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0455",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "WAN",
-          "isCorrect": false
-        },
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
         {
           "text": "USB",
           "isCorrect": true
         },
         {
-          "text": "operating system",
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0456",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "IP address",
-          "isCorrect": false
-        },
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
-        {
-          "text": "browser",
-          "isCorrect": false
-        },
         {
           "text": "URL",
           "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0457",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
         {
           "text": "HTTP",
           "isCorrect": true
         },
         {
-          "text": "DNS",
+          "text": "compiler",
           "isCorrect": false
         },
         {
-          "text": "scanner",
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "CPU",
+          "text": "primary key",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0458",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "Wi-Fi",
-          "isCorrect": false
-        },
         {
           "text": "HTML",
           "isCorrect": true
@@ -10071,593 +10067,597 @@
           "isCorrect": false
         },
         {
-          "text": "RAM",
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0459",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "Bluetooth",
-          "isCorrect": false
-        },
-        {
-          "text": "database",
-          "isCorrect": false
-        },
         {
           "text": "SSD",
           "isCorrect": true
         },
         {
-          "text": "ROM",
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0460",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
-        {
-          "text": "algorithm",
-          "isCorrect": false
-        },
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
         {
           "text": "HDD",
           "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0461",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
         {
           "text": "LAN",
           "isCorrect": true
         },
         {
-          "text": "monitor",
+          "text": "kernel",
           "isCorrect": false
         },
         {
-          "text": "operating system",
+          "text": "router",
           "isCorrect": false
         },
         {
-          "text": "USB",
+          "text": "database",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0462",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
         {
           "text": "WAN",
           "isCorrect": true
         },
         {
-          "text": "browser",
+          "text": "variable",
           "isCorrect": false
         },
         {
-          "text": "URL",
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0463",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
         {
           "text": "IP address",
           "isCorrect": true
         },
         {
-          "text": "HTTP",
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0464",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "firewall",
-          "isCorrect": false
-        },
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
-        {
-          "text": "HTML",
-          "isCorrect": false
-        },
         {
           "text": "DNS",
           "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0465",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
         {
           "text": "Wi-Fi",
           "isCorrect": true
         },
         {
-          "text": "database",
+          "text": "dataset",
           "isCorrect": false
         },
         {
-          "text": "ROM",
+          "text": "algorithm",
           "isCorrect": false
         },
         {
-          "text": "SSD",
+          "text": "Linux",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0466",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "algorithm",
-          "isCorrect": false
-        },
         {
           "text": "Bluetooth",
           "isCorrect": true
         },
         {
-          "text": "GPU",
+          "text": "ERP",
           "isCorrect": false
         },
         {
-          "text": "HDD",
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0467",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "operating system",
-          "isCorrect": false
-        },
-        {
-          "text": "USB",
-          "isCorrect": false
-        },
         {
           "text": "keyboard",
           "isCorrect": true
         },
         {
-          "text": "LAN",
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0468",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "browser",
-          "isCorrect": false
-        },
-        {
-          "text": "URL",
-          "isCorrect": false
-        },
-        {
-          "text": "WAN",
-          "isCorrect": false
-        },
         {
           "text": "monitor",
           "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0469",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
         {
           "text": "printer",
           "isCorrect": true
         },
         {
-          "text": "CPU",
+          "text": "array",
           "isCorrect": false
         },
         {
-          "text": "HTTP",
+          "text": "neural network",
           "isCorrect": false
         },
         {
-          "text": "IP address",
+          "text": "encryption",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0470",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
         {
           "text": "scanner",
           "isCorrect": true
         },
         {
-          "text": "HTML",
+          "text": "virtual machine",
           "isCorrect": false
         },
         {
-          "text": "DNS",
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0471",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
         {
           "text": "firewall",
           "isCorrect": true
         },
         {
-          "text": "Wi-Fi",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0472",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
-        {
-          "text": "Bluetooth",
-          "isCorrect": false
-        },
         {
           "text": "database",
           "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0473",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
         {
           "text": "algorithm",
           "isCorrect": true
         },
         {
-          "text": "USB",
+          "text": "HTTP",
           "isCorrect": false
         },
         {
-          "text": "LAN",
+          "text": "DNS",
           "isCorrect": false
         },
         {
-          "text": "keyboard",
+          "text": "server",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0474",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "URL",
-          "isCorrect": false
-        },
         {
           "text": "operating system",
           "isCorrect": true
         },
         {
-          "text": "WAN",
+          "text": "cloud computing",
           "isCorrect": false
         },
         {
-          "text": "monitor",
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0475",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાન નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
       "options": [
-        {
-          "text": "HTTP",
-          "isCorrect": false
-        },
-        {
-          "text": "IP address",
-          "isCorrect": false
-        },
         {
           "text": "browser",
           "isCorrect": true
         },
         {
-          "text": "printer",
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0476",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "HTML",
-          "isCorrect": false
-        },
-        {
-          "text": "DNS",
-          "isCorrect": false
-        },
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
         {
           "text": "CPU",
           "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0477",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
         {
           "text": "RAM",
           "isCorrect": true
         },
         {
-          "text": "SSD",
+          "text": "compiler",
           "isCorrect": false
         },
         {
-          "text": "Wi-Fi",
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "firewall",
+          "text": "primary key",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0478",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "HDD",
-          "isCorrect": false
-        },
         {
           "text": "ROM",
           "isCorrect": true
         },
         {
-          "text": "Bluetooth",
+          "text": "firewall",
           "isCorrect": false
         },
         {
-          "text": "database",
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0479",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "LAN",
-          "isCorrect": false
-        },
-        {
-          "text": "keyboard",
-          "isCorrect": false
-        },
         {
           "text": "GPU",
           "isCorrect": true
         },
         {
-          "text": "algorithm",
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0480",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "WAN",
-          "isCorrect": false
-        },
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
-        {
-          "text": "operating system",
-          "isCorrect": false
-        },
         {
           "text": "USB",
           "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0481",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
         {
           "text": "URL",
           "isCorrect": true
         },
         {
-          "text": "IP address",
+          "text": "kernel",
           "isCorrect": false
         },
         {
-          "text": "printer",
+          "text": "router",
           "isCorrect": false
         },
         {
-          "text": "browser",
+          "text": "database",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0482",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "DNS",
-          "isCorrect": false
-        },
         {
           "text": "HTTP",
           "isCorrect": true
         },
         {
-          "text": "scanner",
+          "text": "variable",
           "isCorrect": false
         },
         {
-          "text": "CPU",
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0483",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "Wi-Fi",
-          "isCorrect": false
-        },
-        {
-          "text": "firewall",
-          "isCorrect": false
-        },
         {
           "text": "HTML",
           "isCorrect": true
         },
         {
-          "text": "RAM",
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0484",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "Bluetooth",
-          "isCorrect": false
-        },
-        {
-          "text": "database",
-          "isCorrect": false
-        },
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
         {
           "text": "SSD",
           "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0485",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
         {
           "text": "HDD",
           "isCorrect": true
         },
         {
-          "text": "keyboard",
+          "text": "dataset",
           "isCorrect": false
         },
         {
@@ -10665,338 +10665,338 @@
           "isCorrect": false
         },
         {
-          "text": "GPU",
+          "text": "Linux",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0486",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "monitor",
-          "isCorrect": false
-        },
         {
           "text": "LAN",
           "isCorrect": true
         },
         {
-          "text": "operating system",
+          "text": "ERP",
           "isCorrect": false
         },
         {
-          "text": "USB",
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0487",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
-        {
-          "text": "browser",
-          "isCorrect": false
-        },
         {
           "text": "WAN",
           "isCorrect": true
         },
         {
-          "text": "URL",
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0488",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "scanner",
-          "isCorrect": false
-        },
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
-        {
-          "text": "HTTP",
-          "isCorrect": false
-        },
         {
           "text": "IP address",
           "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0489",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
         {
           "text": "DNS",
           "isCorrect": true
         },
         {
-          "text": "firewall",
+          "text": "array",
           "isCorrect": false
         },
         {
-          "text": "RAM",
+          "text": "neural network",
           "isCorrect": false
         },
         {
-          "text": "HTML",
+          "text": "encryption",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0490",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "database",
-          "isCorrect": false
-        },
         {
           "text": "Wi-Fi",
           "isCorrect": true
         },
         {
-          "text": "ROM",
+          "text": "virtual machine",
           "isCorrect": false
         },
         {
-          "text": "SSD",
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0491",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "algorithm",
-          "isCorrect": false
-        },
-        {
-          "text": "GPU",
-          "isCorrect": false
-        },
         {
           "text": "Bluetooth",
           "isCorrect": true
         },
         {
-          "text": "HDD",
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0492",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "operating system",
-          "isCorrect": false
-        },
-        {
-          "text": "USB",
-          "isCorrect": false
-        },
-        {
-          "text": "LAN",
-          "isCorrect": false
-        },
         {
           "text": "keyboard",
           "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0493",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
         {
           "text": "monitor",
           "isCorrect": true
         },
         {
-          "text": "browser",
+          "text": "HTTP",
           "isCorrect": false
         },
         {
-          "text": "URL",
+          "text": "DNS",
           "isCorrect": false
         },
         {
-          "text": "WAN",
+          "text": "server",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0494",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "CPU",
-          "isCorrect": false
-        },
         {
           "text": "printer",
           "isCorrect": true
         },
         {
-          "text": "HTTP",
+          "text": "cloud computing",
           "isCorrect": false
         },
         {
-          "text": "IP address",
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0495",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "RAM",
-          "isCorrect": false
-        },
-        {
-          "text": "HTML",
-          "isCorrect": false
-        },
         {
           "text": "scanner",
           "isCorrect": true
         },
         {
-          "text": "DNS",
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0496",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "ROM",
-          "isCorrect": false
-        },
-        {
-          "text": "SSD",
-          "isCorrect": false
-        },
-        {
-          "text": "Wi-Fi",
-          "isCorrect": false
-        },
         {
           "text": "firewall",
           "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0497",
-      "question": "કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન સાથે સૌથી વધુ સંબંધિત છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
         {
           "text": "database",
           "isCorrect": true
         },
         {
-          "text": "GPU",
+          "text": "compiler",
           "isCorrect": false
         },
         {
-          "text": "HDD",
+          "text": "transistor",
           "isCorrect": false
         },
         {
-          "text": "Bluetooth",
+          "text": "primary key",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0498",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "USB",
-          "isCorrect": false
-        },
         {
           "text": "algorithm",
           "isCorrect": true
         },
         {
-          "text": "LAN",
+          "text": "firewall",
           "isCorrect": false
         },
         {
-          "text": "keyboard",
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0499",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનનો કયો શબ્દ ભાગ છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "URL",
-          "isCorrect": false
-        },
-        {
-          "text": "WAN",
-          "isCorrect": false
-        },
         {
           "text": "operating system",
           "isCorrect": true
         },
         {
-          "text": "monitor",
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "computer-general-knowledge_0500",
-      "question": "કમ્પ્યુટર સામાન્ય જ્ઞાનમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "question": "નીચેનામાંથી કયો શબ્દ કમ્પ્યુટર સામાન્ય જ્ઞાન ક્ષેત્ર સાથે સંબંધિત છે?",
       "options": [
-        {
-          "text": "HTTP",
-          "isCorrect": false
-        },
-        {
-          "text": "IP address",
-          "isCorrect": false
-        },
-        {
-          "text": "printer",
-          "isCorrect": false
-        },
         {
           "text": "browser",
           "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
         }
       ]
     }
