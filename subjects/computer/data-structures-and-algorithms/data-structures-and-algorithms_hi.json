@@ -2199,6 +2199,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0101",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0102",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0103",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0104",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0105",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0106",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0107",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0108",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0109",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0110",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0111",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0112",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0113",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0114",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0115",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0116",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0117",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0118",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0119",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0120",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0121",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0122",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0123",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0124",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0125",
+      "question": "कौन सा शब्द मुख्य रूप से डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0126",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0127",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0128",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0129",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0130",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0131",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0132",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0133",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0134",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0135",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0136",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0137",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0138",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0139",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0140",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0141",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0142",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0143",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0144",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0145",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0146",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0147",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0148",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0149",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0150",
+      "question": "कौन सा शब्द एक मान्य अवधारणा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0151",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0152",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0153",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0154",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0155",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0156",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0157",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0158",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0159",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0160",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0161",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0162",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0163",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0164",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0165",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0166",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0167",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0168",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0169",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0170",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0171",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0172",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0173",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0174",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0175",
+      "question": "कौन सा शब्द इसका हिस्सा है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0176",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0177",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0178",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0179",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0180",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0181",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0182",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0183",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0184",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0185",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0186",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0187",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0188",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0189",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0190",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0191",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0192",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0193",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0194",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0195",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0196",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0197",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0198",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0199",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0200",
+      "question": "कौन सा शब्द सामान्यतः उपयोग किया जाता है डेटा स्ट्रक्चर और एल्गોરिदम?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
