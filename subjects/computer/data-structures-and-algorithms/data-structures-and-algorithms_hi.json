@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0401",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0402",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0403",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0404",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0405",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0406",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0407",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0408",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0409",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0410",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0411",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0412",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0413",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0414",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0415",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0416",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0417",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0418",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0419",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0420",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0421",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0422",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0423",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0424",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0425",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम से कौन सा शब्द सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0426",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0427",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0428",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0429",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0430",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0431",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0432",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0433",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0434",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0435",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0436",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0437",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0438",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0439",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0440",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0441",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0442",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0443",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0444",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0445",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0446",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0447",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0448",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0449",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0450",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम में निम्नलिखित में से कौन सा एक सामान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0451",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0452",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0453",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0454",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0455",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0456",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0457",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0458",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0459",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0460",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0461",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0462",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0463",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0464",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0465",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0466",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0467",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0468",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0469",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0470",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0471",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0472",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0473",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0474",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0475",
+      "question": "डेटा स्ट्रक्चर्स और एल्गोरिदम का अध्ययन करते समय कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0476",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0477",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "linked list",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0478",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "stack",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0479",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "queue",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0480",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "deque",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0481",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "tree",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0482",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "binary tree",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0483",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "binary search tree",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0484",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "heap",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0485",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "graph",
+          "isCorrect": true
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0486",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "hash table",
+          "isCorrect": true
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0487",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": true
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0488",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": true
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0489",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0490",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "sorting",
+          "isCorrect": true
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0491",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "searching",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0492",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "binary search",
+          "isCorrect": true
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0493",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "linear search",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0494",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "merge sort",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0495",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "quick sort",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0496",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "breadth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0497",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "depth-first search",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0498",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0499",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "greedy algorithm",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "data-structures-and-algorithms_0500",
+      "question": "निम्नलिखित में से कौन सा शब्द डेटा स्ट्रक्चर्स और एल्गोरिदम के क्षेत्र से संबंधित है?",
+      "options": [
+        {
+          "text": "time complexity",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
