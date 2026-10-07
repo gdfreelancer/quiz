@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "information-technology_0201",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0202",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0203",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0204",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0205",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0206",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0207",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0208",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0209",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0210",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0211",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0212",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0213",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0214",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0215",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0216",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0217",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0218",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0219",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0220",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0221",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0222",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0223",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0224",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0225",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0226",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0227",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0228",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0229",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0230",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0231",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0232",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0233",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0234",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0235",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0236",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0237",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0238",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0239",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0240",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0241",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0242",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0243",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0244",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0245",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0246",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0247",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0248",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0249",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0250",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0251",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0252",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0253",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0254",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0255",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0256",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0257",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0258",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0259",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0260",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0261",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0262",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0263",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0264",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0265",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0266",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0267",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0268",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0269",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0270",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0271",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0272",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0273",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0274",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0275",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0276",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0277",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0278",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0279",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0280",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0281",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0282",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0283",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0284",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0285",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0286",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0287",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0288",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0289",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0290",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0291",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0292",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0293",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0294",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0295",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0296",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0297",
+      "question": "Which term is most closely associated with Information Technology?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0298",
+      "question": "Which term is a recognized concept in Information Technology?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0299",
+      "question": "Which term belongs to Information Technology?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0300",
+      "question": "Which term is commonly used in Information Technology?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
