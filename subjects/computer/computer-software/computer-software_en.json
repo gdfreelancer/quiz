@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-software_0201",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0202",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0203",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0204",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0205",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0206",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0207",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0208",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0209",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0210",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0211",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0212",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0213",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0214",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0215",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0216",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0217",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0218",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0219",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0220",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0221",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0222",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0223",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0224",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0225",
+      "question": "Which term is most closely associated with Computer Software?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0226",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0227",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0228",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0229",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0230",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0231",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0232",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0233",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0234",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0235",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0236",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0237",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0238",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0239",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0240",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0241",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0242",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0243",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0244",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0245",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0246",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0247",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0248",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0249",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0250",
+      "question": "Which term is a recognized concept in Computer Software?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0251",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0252",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0253",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0254",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0255",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0256",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0257",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0258",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0259",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0260",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0261",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0262",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0263",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0264",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0265",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0266",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0267",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0268",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0269",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0270",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0271",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0272",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0273",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0274",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0275",
+      "question": "Which term belongs to Computer Software?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0276",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "operating system",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0277",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "application",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0278",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0279",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0280",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "interpreter",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0281",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "utility",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0282",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0283",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "editor",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0284",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "database management system",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0285",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0286",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0287",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0288",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0289",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "freeware",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0290",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "shareware",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0291",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "middleware",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0292",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0293",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "library",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0294",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "framework",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0295",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "plugin",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0296",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "backup software",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0297",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "compression software",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0298",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "version control",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0299",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IDE",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-software_0300",
+      "question": "Which term is commonly used in Computer Software?",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
