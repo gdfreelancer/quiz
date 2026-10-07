@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-networks_0201",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0202",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0203",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0204",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0205",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0206",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0207",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0208",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0209",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0210",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0211",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0212",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0213",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0214",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0215",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0216",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0217",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0218",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0219",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0220",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0221",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0222",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0223",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0224",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0225",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0226",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0227",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0228",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0229",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0230",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0231",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0232",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0233",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0234",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0235",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0236",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0237",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0238",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0239",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0240",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0241",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0242",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0243",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0244",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0245",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0246",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0247",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0248",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0249",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0250",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0251",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0252",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0253",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0254",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0255",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0256",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0257",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0258",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0259",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0260",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0261",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0262",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0263",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0264",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0265",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0266",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0267",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0268",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0269",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0270",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0271",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0272",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0273",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0274",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0275",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0276",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0277",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0278",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0279",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0280",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0281",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0282",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0283",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0284",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0285",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0286",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0287",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0288",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0289",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0290",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0291",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0292",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0293",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0294",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0295",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0296",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0297",
+      "question": "कौन सा शब्द कंप्यूटर नेटवर्क से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0298",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0299",
+      "question": "कंप्यूटर नेटवर्क का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks_0300",
+      "question": "कंप्यूटर नेटवर्क में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
