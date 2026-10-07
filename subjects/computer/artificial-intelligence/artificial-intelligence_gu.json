@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "artificial-intelligence_0401",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0402",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0403",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0404",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0405",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0406",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0407",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0408",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0409",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0410",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0411",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0412",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0413",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0414",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0415",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0416",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0417",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0418",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0419",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0420",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0421",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0422",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0423",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0424",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0425",
+      "question": "કૃત્રિમ બુદ્ધિ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0426",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0427",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0428",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0429",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0430",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0431",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0432",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0433",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0434",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0435",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0436",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0437",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0438",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0439",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0440",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0441",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0442",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0443",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0444",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0445",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0446",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0447",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0448",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0449",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0450",
+      "question": "કૃત્રિમ બુદ્ધિ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0451",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0452",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0453",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0454",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0455",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0456",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0457",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0458",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0459",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0460",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0461",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0462",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0463",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0464",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0465",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0466",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0467",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0468",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0469",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0470",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0471",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0472",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0473",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0474",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0475",
+      "question": "કૃત્રિમ બુદ્ધિ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0476",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "artificial intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0477",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0478",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0479",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "deep learning",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0480",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "natural language processing",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0481",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "computer vision",
+          "isCorrect": true
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0482",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "expert system",
+          "isCorrect": true
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0483",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "knowledge representation",
+          "isCorrect": true
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0484",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "inference",
+          "isCorrect": true
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0485",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "training data",
+          "isCorrect": true
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0486",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0487",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0488",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0489",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0490",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "reinforcement learning",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0491",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "agent",
+          "isCorrect": true
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0492",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "supervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0493",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "unsupervised learning",
+          "isCorrect": true
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0494",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "generative AI",
+          "isCorrect": true
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0495",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "large language model",
+          "isCorrect": true
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0496",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "prompt",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0497",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "robotics",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0498",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "speech recognition",
+          "isCorrect": true
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0499",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "recommendation system",
+          "isCorrect": true
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence_0500",
+      "question": "નીચેનામાંથી કયો શબ્દ કૃત્રિમ બુદ્ધિ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "AI ethics",
+          "isCorrect": true
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
