@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "database_0201",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0202",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0203",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0204",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0205",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0206",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0207",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0208",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0209",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0210",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0211",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0212",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0213",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0214",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0215",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0216",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0217",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0218",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0219",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0220",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0221",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0222",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0223",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0224",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0225",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0226",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0227",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0228",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0229",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0230",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0231",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0232",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0233",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0234",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0235",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0236",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0237",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0238",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0239",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0240",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0241",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0242",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0243",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0244",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0245",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0246",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0247",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0248",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0249",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0250",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0251",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0252",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0253",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0254",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0255",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0256",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0257",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0258",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0259",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0260",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0261",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0262",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0263",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0264",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0265",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0266",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0267",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0268",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0269",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0270",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0271",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0272",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0273",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0274",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0275",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0276",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0277",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0278",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0279",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0280",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0281",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0282",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0283",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0284",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0285",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0286",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0287",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0288",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0289",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0290",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0291",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0292",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0293",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0294",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0295",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0296",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "database_0297",
+      "question": "કયો શબ્દ ડેટાબેઝ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0298",
+      "question": "ડેટાબેઝમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0299",
+      "question": "ડેટાબેઝનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0300",
+      "question": "ડેટાબેઝમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
