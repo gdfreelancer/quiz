@@ -6599,6 +6599,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "computer-hardware_0301",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0302",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0303",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0304",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0305",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0306",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0307",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0308",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0309",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0310",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0311",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0312",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0313",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0314",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0315",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0316",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0317",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0318",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0319",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0320",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0321",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0322",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0323",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0324",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0325",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0326",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0327",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0328",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0329",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0330",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0331",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0332",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0333",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0334",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0335",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0336",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0337",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0338",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0339",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0340",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0341",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0342",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0343",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0344",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0345",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0346",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0347",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0348",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0349",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0350",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0351",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0352",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0353",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0354",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0355",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0356",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0357",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0358",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0359",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0360",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0361",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0362",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0363",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0364",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0365",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0366",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0367",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0368",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0369",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0370",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0371",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0372",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0373",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0374",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0375",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0376",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0377",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": true
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0378",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": true
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0379",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": true
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0380",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0381",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": true
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0382",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": true
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0383",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0384",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "monitor",
+          "isCorrect": false
+        },
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0385",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "fan",
+          "isCorrect": true
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0386",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": true
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0387",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": true
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0388",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "HDMI",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0389",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "microphone",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0390",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0391",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "touchpad",
+          "isCorrect": false
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": true
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0392",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "BIOS",
+          "isCorrect": false
+        },
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0393",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "scanner",
+          "isCorrect": true
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": false
+        },
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0394",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": true
+        },
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0395",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "HDD",
+          "isCorrect": false
+        },
+        {
+          "text": "HDMI",
+          "isCorrect": true
+        },
+        {
+          "text": "microphone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0396",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "heat sink",
+          "isCorrect": false
+        },
+        {
+          "text": "speaker",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet port",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0397",
+      "question": "કયો શબ્દ કમ્પ્યુટર હાર્ડવેર સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "battery",
+          "isCorrect": true
+        },
+        {
+          "text": "ROM",
+          "isCorrect": false
+        },
+        {
+          "text": "fan",
+          "isCorrect": false
+        },
+        {
+          "text": "monitor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0398",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "GPU",
+          "isCorrect": false
+        },
+        {
+          "text": "touchpad",
+          "isCorrect": true
+        },
+        {
+          "text": "keyboard",
+          "isCorrect": false
+        },
+        {
+          "text": "printer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0399",
+      "question": "કમ્પ્યુટર હાર્ડવેરનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "PSU",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        },
+        {
+          "text": "BIOS",
+          "isCorrect": true
+        },
+        {
+          "text": "scanner",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "computer-hardware_0400",
+      "question": "કમ્પ્યુટર હાર્ડવેરમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "SSD",
+          "isCorrect": false
+        },
+        {
+          "text": "webcam",
+          "isCorrect": false
+        },
+        {
+          "text": "USB port",
+          "isCorrect": false
+        },
+        {
+          "text": "CMOS",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
