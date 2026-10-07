@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "operating-systems_0301",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0302",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0303",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0304",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0305",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0306",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0307",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0308",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0309",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0310",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0311",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0312",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0313",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0314",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0315",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0316",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0317",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0318",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0319",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0320",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0321",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0322",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0323",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0324",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0325",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0326",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0327",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0328",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0329",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0330",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0331",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0332",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0333",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0334",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0335",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0336",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0337",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0338",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0339",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0340",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0341",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0342",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0343",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0344",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0345",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0346",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0347",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0348",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0349",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0350",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0351",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0352",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0353",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0354",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0355",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0356",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0357",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0358",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0359",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0360",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0361",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0362",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0363",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0364",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0365",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0366",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0367",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0368",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0369",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0370",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0371",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0372",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0373",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0374",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0375",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0376",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0377",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0378",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0379",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0380",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0381",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0382",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0383",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0384",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0385",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0386",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0387",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0388",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0389",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0390",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0391",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0392",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0393",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0394",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0395",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0396",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0397",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0398",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0399",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0400",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
