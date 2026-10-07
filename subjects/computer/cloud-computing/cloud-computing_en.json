@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "cloud-computing_0201",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0202",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0203",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0204",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0205",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0206",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0207",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0208",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0209",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0210",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0211",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0212",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0213",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0214",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0215",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0216",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0217",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0218",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0219",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0220",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0221",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0222",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0223",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0224",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0225",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0226",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0227",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0228",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0229",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0230",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0231",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0232",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0233",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0234",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0235",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0236",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0237",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0238",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0239",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0240",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0241",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0242",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0243",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0244",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0245",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0246",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0247",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0248",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0249",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0250",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0251",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0252",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0253",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0254",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0255",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0256",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0257",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0258",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0259",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0260",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0261",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0262",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0263",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0264",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0265",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0266",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0267",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0268",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0269",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0270",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0271",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0272",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0273",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0274",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0275",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0276",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0277",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0278",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0279",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": true
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0280",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0281",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": true
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0282",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0283",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": true
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0284",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0285",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "load balancer",
+          "isCorrect": true
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0286",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0287",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0288",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0289",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "private cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0290",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0291",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": true
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0292",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0293",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "virtual network",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0294",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": true
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0295",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0296",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0297",
+      "question": "Which term is most closely associated with Cloud Computing?",
+      "options": [
+        {
+          "text": "elasticity",
+          "isCorrect": true
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0298",
+      "question": "Which term is a recognized concept in Cloud Computing?",
+      "options": [
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": true
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0299",
+      "question": "Which term belongs to Cloud Computing?",
+      "options": [
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing_0300",
+      "question": "Which term is commonly used in Cloud Computing?",
+      "options": [
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
