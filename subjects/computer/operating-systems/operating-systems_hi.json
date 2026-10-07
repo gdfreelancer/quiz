@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "operating-systems_0201",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0202",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0203",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0204",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0205",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0206",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0207",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0208",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0209",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0210",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0211",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0212",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0213",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0214",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0215",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0216",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0217",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0218",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0219",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0220",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0221",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0222",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0223",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0224",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0225",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0226",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0227",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0228",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0229",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0230",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0231",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0232",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0233",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0234",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0235",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0236",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0237",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0238",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0239",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0240",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0241",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0242",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0243",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0244",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0245",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0246",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0247",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0248",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0249",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0250",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0251",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0252",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0253",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0254",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0255",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0256",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0257",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0258",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0259",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0260",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0261",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0262",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0263",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0264",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0265",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0266",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0267",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0268",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0269",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0270",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0271",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0272",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0273",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0274",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0275",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0276",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0277",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0278",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0279",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0280",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0281",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0282",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0283",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0284",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "permission",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0285",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0286",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0287",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0288",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "swap space",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0289",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0290",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0291",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "Android",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0292",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "macOS",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0293",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "Unix",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0294",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0295",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "paging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0296",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "thread",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0297",
+      "question": "कौन सा शब्द ऑपरेटिंग सिस्टम से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "file system",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0298",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "driver",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "CLI",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0299",
+      "question": "ऑपरेटिंग सिस्टम का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "scheduler",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0300",
+      "question": "ऑपरेटिंग सिस्टम में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "virtual memory",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
