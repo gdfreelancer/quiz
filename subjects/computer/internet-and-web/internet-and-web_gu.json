@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "internet-and-web_0301",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0302",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0303",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0304",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0305",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0306",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0307",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0308",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0309",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0310",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0311",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0312",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0313",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0314",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0315",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0316",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0317",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0318",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0319",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0320",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0321",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0322",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0323",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0324",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0325",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0326",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0327",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0328",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0329",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0330",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0331",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0332",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0333",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0334",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0335",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0336",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0337",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0338",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0339",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0340",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0341",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0342",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0343",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0344",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0345",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0346",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0347",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0348",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0349",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0350",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0351",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0352",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0353",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0354",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0355",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0356",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0357",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0358",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0359",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0360",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0361",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0362",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0363",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0364",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0365",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0366",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0367",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0368",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0369",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0370",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0371",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0372",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0373",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0374",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0375",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0376",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0377",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0378",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0379",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0380",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0381",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0382",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0383",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0384",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        },
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0385",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0386",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0387",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0388",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": false
+        },
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0389",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "JSON",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0390",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0391",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0392",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": false
+        },
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0393",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "download",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0394",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0395",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0396",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "search engine",
+          "isCorrect": false
+        },
+        {
+          "text": "JSON",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0397",
+      "question": "કયો શબ્દ ઇન્ટરનેટ અને વેબ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "isCorrect": false
+        },
+        {
+          "text": "domain name",
+          "isCorrect": false
+        },
+        {
+          "text": "hyperlink",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0398",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "web page",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0399",
+      "question": "ઇન્ટરનેટ અને વેબનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "website",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0400",
+      "question": "ઇન્ટરનેટ અને વેબમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": false
+        },
+        {
+          "text": "cookie",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "download",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
