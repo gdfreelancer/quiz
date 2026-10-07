@@ -4399,6 +4399,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "information-technology_0201",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0202",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0203",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0204",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0205",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0206",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0207",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0208",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0209",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0210",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0211",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0212",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0213",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0214",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0215",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0216",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0217",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0218",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0219",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0220",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0221",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0222",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0223",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0224",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0225",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0226",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0227",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0228",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0229",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0230",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0231",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0232",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0233",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0234",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0235",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0236",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0237",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0238",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0239",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0240",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0241",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0242",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0243",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0244",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0245",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0246",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0247",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0248",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0249",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0250",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0251",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0252",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0253",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0254",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0255",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0256",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0257",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0258",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0259",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0260",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0261",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0262",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0263",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0264",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0265",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0266",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0267",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0268",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0269",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0270",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0271",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0272",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0273",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0274",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0275",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0276",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0277",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": true
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0278",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": true
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0279",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0280",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0281",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": true
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0282",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0283",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0284",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0285",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0286",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": true
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0287",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0288",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0289",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "technical support",
+          "isCorrect": true
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0290",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": true
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0291",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": true
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0292",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0293",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "disaster recovery",
+          "isCorrect": true
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0294",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "information technology",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": true
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0295",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0296",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0297",
+      "question": "कौन सा शब्द सूचना प्रौद्योगिकी से सबसे अधिक संबंधित है?",
+      "options": [
+        {
+          "text": "business intelligence",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0298",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द एक मान्य अवधारणा है?",
+      "options": [
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0299",
+      "question": "सूचना प्रौद्योगिकी का कौन सा शब्द हिस्सा है?",
+      "options": [
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "information-technology_0300",
+      "question": "सूचना प्रौद्योगिकी में कौन सा शब्द सामान्यतः उपयोग किया जाता है?",
+      "options": [
+        {
+          "text": "information system",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
