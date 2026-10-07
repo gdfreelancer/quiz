@@ -2199,6 +2199,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "operating-systems_0101",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0102",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0103",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0104",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0105",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0106",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0107",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0108",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0109",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0110",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0111",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0112",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0113",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0114",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0115",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0116",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0117",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0118",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0119",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0120",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0121",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0122",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0123",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0124",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0125",
+      "question": "Which term is most closely associated with Operating Systems?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0126",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0127",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0128",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0129",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0130",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0131",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0132",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0133",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0134",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0135",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0136",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0137",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0138",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0139",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0140",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0141",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0142",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0143",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0144",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0145",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0146",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0147",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0148",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0149",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0150",
+      "question": "Which term is a recognized concept in Operating Systems?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0151",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0152",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0153",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0154",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0155",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0156",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0157",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0158",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0159",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0160",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0161",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0162",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0163",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0164",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0165",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0166",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0167",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0168",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0169",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0170",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0171",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0172",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0173",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0174",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0175",
+      "question": "Which term belongs to Operating Systems?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0176",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": true
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0177",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0178",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "thread",
+          "isCorrect": true
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0179",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "file system",
+          "isCorrect": true
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0180",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "driver",
+          "isCorrect": true
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0181",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "scheduler",
+          "isCorrect": true
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0182",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual memory",
+          "isCorrect": true
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0183",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "bootloader",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0184",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "shell",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0185",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "GUI",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0186",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "CLI",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0187",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "multitasking",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0188",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "deadlock",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0189",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "paging",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0190",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "segmentation",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0191",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "permission",
+          "isCorrect": true
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0192",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "user account",
+          "isCorrect": true
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0193",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "service",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0194",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "registry",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0195",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "swap space",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0196",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0197",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0198",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0199",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "macOS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "operating-systems_0200",
+      "question": "Which term is commonly used in Operating Systems?",
+      "options": [
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Unix",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
