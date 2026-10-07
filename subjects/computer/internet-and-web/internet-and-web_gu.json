@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "internet-and-web_0401",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0402",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0403",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0404",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0405",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0406",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0407",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0408",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0409",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0410",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0411",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0412",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0413",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0414",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0415",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0416",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0417",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0418",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0419",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0420",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0421",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0422",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0423",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0424",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0425",
+      "question": "ઇન્ટરનેટ અને વેબ સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0426",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0427",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0428",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0429",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0430",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0431",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0432",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0433",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0434",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0435",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0436",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0437",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0438",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0439",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0440",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0441",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0442",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0443",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0444",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0445",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0446",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0447",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0448",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0449",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0450",
+      "question": "ઇન્ટરનેટ અને વેબ માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0451",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0452",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0453",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0454",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0455",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0456",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0457",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0458",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0459",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0460",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0461",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0462",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0463",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0464",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0465",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0466",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0467",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0468",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0469",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0470",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0471",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0472",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0473",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0474",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0475",
+      "question": "ઇન્ટરનેટ અને વેબ નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0476",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "URL",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0477",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HTTP",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0478",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HTTPS",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0479",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0480",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "CSS",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0481",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0482",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "browser",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0483",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "server",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0484",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "client",
+          "isCorrect": true
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0485",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "domain name",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0486",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "DNS",
+          "isCorrect": true
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0487",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "IP address",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0488",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cookie",
+          "isCorrect": true
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0489",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cache",
+          "isCorrect": true
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0490",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "search engine",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0491",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "hyperlink",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0492",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "web page",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0493",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "website",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0494",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "API",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "RAM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0495",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "REST",
+          "isCorrect": true
+        },
+        {
+          "text": "kernel",
+          "isCorrect": false
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0496",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "JSON",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0497",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "XML",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0498",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cloud computing",
+          "isCorrect": true
+        },
+        {
+          "text": "motherboard",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0499",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "email",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "firewall",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "internet-and-web_0500",
+      "question": "નીચેનામાંથી કયો શબ્દ ઇન્ટરનેટ અને વેબ ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "download",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
