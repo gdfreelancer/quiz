@@ -8799,6 +8799,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "cyber-security_0401",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0402",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0403",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0404",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0405",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0406",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0407",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0408",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0409",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0410",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0411",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0412",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0413",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0414",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0415",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0416",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0417",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0418",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0419",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0420",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0421",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0422",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0423",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0424",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0425",
+      "question": "સાયબર સુરક્ષા સાથે કયો શબ્દ સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0426",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "stack",
+          "isCorrect": false
+        },
+        {
+          "text": "queue",
+          "isCorrect": false
+        },
+        {
+          "text": "deque",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0427",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary tree",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0428",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "heap",
+          "isCorrect": false
+        },
+        {
+          "text": "graph",
+          "isCorrect": false
+        },
+        {
+          "text": "hash table",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0429",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0430",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "sorting",
+          "isCorrect": false
+        },
+        {
+          "text": "searching",
+          "isCorrect": false
+        },
+        {
+          "text": "binary search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0431",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "linear search",
+          "isCorrect": false
+        },
+        {
+          "text": "merge sort",
+          "isCorrect": false
+        },
+        {
+          "text": "quick sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0432",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "depth-first search",
+          "isCorrect": false
+        },
+        {
+          "text": "dynamic programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0433",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "time complexity",
+          "isCorrect": false
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0434",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0435",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "natural language processing",
+          "isCorrect": false
+        },
+        {
+          "text": "computer vision",
+          "isCorrect": false
+        },
+        {
+          "text": "expert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0436",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "knowledge representation",
+          "isCorrect": false
+        },
+        {
+          "text": "inference",
+          "isCorrect": false
+        },
+        {
+          "text": "training data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0437",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "model",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0438",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "reinforcement learning",
+          "isCorrect": false
+        },
+        {
+          "text": "agent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0439",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "supervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "unsupervised learning",
+          "isCorrect": false
+        },
+        {
+          "text": "generative AI",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0440",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "large language model",
+          "isCorrect": false
+        },
+        {
+          "text": "prompt",
+          "isCorrect": false
+        },
+        {
+          "text": "robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0441",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "speech recognition",
+          "isCorrect": false
+        },
+        {
+          "text": "recommendation system",
+          "isCorrect": false
+        },
+        {
+          "text": "AI ethics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0442",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0443",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0444",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0445",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0446",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0447",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0448",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0449",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0450",
+      "question": "સાયબર સુરક્ષા માં નીચેનામાંથી કયો એક સામાન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "IaaS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0451",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "PaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "SaaS",
+          "isCorrect": false
+        },
+        {
+          "text": "virtual machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0452",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "container",
+          "isCorrect": false
+        },
+        {
+          "text": "serverless",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud storage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0453",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "object storage",
+          "isCorrect": false
+        },
+        {
+          "text": "load balancer",
+          "isCorrect": false
+        },
+        {
+          "text": "auto scaling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0454",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "text": "availability zone",
+          "isCorrect": false
+        },
+        {
+          "text": "private cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0455",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "public cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "hybrid cloud",
+          "isCorrect": false
+        },
+        {
+          "text": "multi-cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0456",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "virtual network",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0457",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "elasticity",
+          "isCorrect": false
+        },
+        {
+          "text": "pay-as-you-go",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0458",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "API",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud security",
+          "isCorrect": false
+        },
+        {
+          "text": "information technology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0459",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "computer system",
+          "isCorrect": false
+        },
+        {
+          "text": "network",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0460",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        },
+        {
+          "text": "information system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0461",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "IT infrastructure",
+          "isCorrect": false
+        },
+        {
+          "text": "server",
+          "isCorrect": false
+        },
+        {
+          "text": "client",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0462",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "data center",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "cyber security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0463",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "technical support",
+          "isCorrect": false
+        },
+        {
+          "text": "system administration",
+          "isCorrect": false
+        },
+        {
+          "text": "IT service management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0464",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        },
+        {
+          "text": "disaster recovery",
+          "isCorrect": false
+        },
+        {
+          "text": "enterprise software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0465",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "ERP",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "isCorrect": false
+        },
+        {
+          "text": "business intelligence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0466",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "data analytics",
+          "isCorrect": false
+        },
+        {
+          "text": "IT governance",
+          "isCorrect": false
+        },
+        {
+          "text": "digital transformation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0467",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "abacus",
+          "isCorrect": false
+        },
+        {
+          "text": "Charles Babbage",
+          "isCorrect": false
+        },
+        {
+          "text": "Ada Lovelace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0468",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "analytical engine",
+          "isCorrect": false
+        },
+        {
+          "text": "ENIAC",
+          "isCorrect": false
+        },
+        {
+          "text": "UNIVAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0469",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "transistor",
+          "isCorrect": false
+        },
+        {
+          "text": "integrated circuit",
+          "isCorrect": false
+        },
+        {
+          "text": "microprocessor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0470",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "ARPANET",
+          "isCorrect": false
+        },
+        {
+          "text": "internet",
+          "isCorrect": false
+        },
+        {
+          "text": "World Wide Web",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0471",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "Tim Berners-Lee",
+          "isCorrect": false
+        },
+        {
+          "text": "personal computer",
+          "isCorrect": false
+        },
+        {
+          "text": "mouse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0472",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "IBM PC",
+          "isCorrect": false
+        },
+        {
+          "text": "Apple Macintosh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0473",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "Linux",
+          "isCorrect": false
+        },
+        {
+          "text": "Windows",
+          "isCorrect": false
+        },
+        {
+          "text": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0474",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "smartphone",
+          "isCorrect": false
+        },
+        {
+          "text": "cloud computing",
+          "isCorrect": false
+        },
+        {
+          "text": "open-source software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0475",
+      "question": "સાયબર સુરક્ષા નો અભ્યાસ કરતી વખતે કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "text": "bit",
+          "isCorrect": false
+        },
+        {
+          "text": "byte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0476",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "malware",
+          "isCorrect": true
+        },
+        {
+          "text": "binary",
+          "isCorrect": false
+        },
+        {
+          "text": "decimal",
+          "isCorrect": false
+        },
+        {
+          "text": "hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0477",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "virus",
+          "isCorrect": true
+        },
+        {
+          "text": "software",
+          "isCorrect": false
+        },
+        {
+          "text": "input",
+          "isCorrect": false
+        },
+        {
+          "text": "output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0478",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "worm",
+          "isCorrect": true
+        },
+        {
+          "text": "CPU",
+          "isCorrect": false
+        },
+        {
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "text": "file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0479",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "trojan",
+          "isCorrect": true
+        },
+        {
+          "text": "folder",
+          "isCorrect": false
+        },
+        {
+          "text": "desktop",
+          "isCorrect": false
+        },
+        {
+          "text": "icon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0480",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "ransomware",
+          "isCorrect": true
+        },
+        {
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "text": "information",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0481",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "phishing",
+          "isCorrect": true
+        },
+        {
+          "text": "booting",
+          "isCorrect": false
+        },
+        {
+          "text": "firmware",
+          "isCorrect": false
+        },
+        {
+          "text": "peripheral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0482",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "spoofing",
+          "isCorrect": true
+        },
+        {
+          "text": "port",
+          "isCorrect": false
+        },
+        {
+          "text": "cache",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0483",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "firewall",
+          "isCorrect": true
+        },
+        {
+          "text": "GUI",
+          "isCorrect": false
+        },
+        {
+          "text": "LAN",
+          "isCorrect": false
+        },
+        {
+          "text": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0484",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "encryption",
+          "isCorrect": true
+        },
+        {
+          "text": "MAN",
+          "isCorrect": false
+        },
+        {
+          "text": "PAN",
+          "isCorrect": false
+        },
+        {
+          "text": "router",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0485",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "decryption",
+          "isCorrect": true
+        },
+        {
+          "text": "switch",
+          "isCorrect": false
+        },
+        {
+          "text": "hub",
+          "isCorrect": false
+        },
+        {
+          "text": "modem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0486",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "IP address",
+          "isCorrect": false
+        },
+        {
+          "text": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "text": "DNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0487",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "authorization",
+          "isCorrect": true
+        },
+        {
+          "text": "DHCP",
+          "isCorrect": false
+        },
+        {
+          "text": "TCP",
+          "isCorrect": false
+        },
+        {
+          "text": "UDP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0488",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "password",
+          "isCorrect": true
+        },
+        {
+          "text": "HTTP",
+          "isCorrect": false
+        },
+        {
+          "text": "HTTPS",
+          "isCorrect": false
+        },
+        {
+          "text": "FTP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0489",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "multi-factor authentication",
+          "isCorrect": true
+        },
+        {
+          "text": "packet",
+          "isCorrect": false
+        },
+        {
+          "text": "bandwidth",
+          "isCorrect": false
+        },
+        {
+          "text": "latency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0490",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "digital certificate",
+          "isCorrect": true
+        },
+        {
+          "text": "Ethernet",
+          "isCorrect": false
+        },
+        {
+          "text": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "text": "topology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0491",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "public key",
+          "isCorrect": true
+        },
+        {
+          "text": "database",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0492",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "private key",
+          "isCorrect": true
+        },
+        {
+          "text": "column",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0493",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "hashing",
+          "isCorrect": true
+        },
+        {
+          "text": "index",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0494",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "vulnerability",
+          "isCorrect": true
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0495",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "exploit",
+          "isCorrect": true
+        },
+        {
+          "text": "normalization",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0496",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "patch",
+          "isCorrect": true
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0497",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "antivirus",
+          "isCorrect": true
+        },
+        {
+          "text": "trigger",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0498",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "intrusion detection",
+          "isCorrect": true
+        },
+        {
+          "text": "relational database",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0499",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "VPN",
+          "isCorrect": true
+        },
+        {
+          "text": "replication",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "cyber-security_0500",
+      "question": "નીચેનામાંથી કયો શબ્દ સાયબર સુરક્ષા ક્ષેત્ર સાથે સંબંધિત છે?",
+      "options": [
+        {
+          "text": "social engineering",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
