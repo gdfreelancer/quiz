@@ -6599,6 +6599,2206 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "id": "machine-learning_0301",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0302",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0303",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0304",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0305",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0306",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0307",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0308",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0309",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0310",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0311",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0312",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0313",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0314",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0315",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0316",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0317",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0318",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0319",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0320",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0321",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0322",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0323",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0324",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0325",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0326",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0327",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0328",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0329",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0330",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0331",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0332",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0333",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0334",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0335",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0336",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0337",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0338",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0339",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0340",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0341",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0342",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0343",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0344",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0345",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0346",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0347",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0348",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0349",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0350",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0351",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0352",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0353",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0354",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0355",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0356",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0357",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0358",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0359",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0360",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0361",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0362",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0363",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0364",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0365",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": true
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0366",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0367",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0368",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0369",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0370",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0371",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": true
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0372",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0373",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": true
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0374",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": true
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0375",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0376",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0377",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": true
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0378",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": true
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0379",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": true
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0380",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0381",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": true
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0382",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": true
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0383",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": true
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0384",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "neural network",
+          "isCorrect": false
+        },
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0385",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "clustering",
+          "isCorrect": true
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0386",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": true
+        },
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0387",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": true
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0388",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "underfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0389",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "support vector machine",
+          "isCorrect": true
+        },
+        {
+          "text": "regularization",
+          "isCorrect": false
+        },
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0390",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": true
+        },
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0391",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "precision",
+          "isCorrect": false
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": true
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0392",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "recall",
+          "isCorrect": false
+        },
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0393",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "loss function",
+          "isCorrect": true
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": false
+        },
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0394",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "machine learning",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0395",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "dataset",
+          "isCorrect": false
+        },
+        {
+          "text": "classification",
+          "isCorrect": false
+        },
+        {
+          "text": "underfitting",
+          "isCorrect": true
+        },
+        {
+          "text": "support vector machine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0396",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "feature",
+          "isCorrect": false
+        },
+        {
+          "text": "regression",
+          "isCorrect": false
+        },
+        {
+          "text": "k-means",
+          "isCorrect": false
+        },
+        {
+          "text": "regularization",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0397",
+      "question": "કયો શબ્દ મશીન લર્નિંગ સાથે સૌથી વધુ સંબંધિત છે?",
+      "options": [
+        {
+          "text": "accuracy",
+          "isCorrect": true
+        },
+        {
+          "text": "label",
+          "isCorrect": false
+        },
+        {
+          "text": "clustering",
+          "isCorrect": false
+        },
+        {
+          "text": "neural network",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0398",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ માન્ય ખ્યાલ છે?",
+      "options": [
+        {
+          "text": "training set",
+          "isCorrect": false
+        },
+        {
+          "text": "precision",
+          "isCorrect": true
+        },
+        {
+          "text": "linear regression",
+          "isCorrect": false
+        },
+        {
+          "text": "gradient descent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0399",
+      "question": "મશીન લર્નિંગનો કયો શબ્દ ભાગ છે?",
+      "options": [
+        {
+          "text": "test set",
+          "isCorrect": false
+        },
+        {
+          "text": "decision tree",
+          "isCorrect": false
+        },
+        {
+          "text": "recall",
+          "isCorrect": true
+        },
+        {
+          "text": "loss function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "machine-learning_0400",
+      "question": "મશીન લર્નિંગમાં કયો શબ્દ સામાન્ય રીતે વપરાય છે?",
+      "options": [
+        {
+          "text": "validation set",
+          "isCorrect": false
+        },
+        {
+          "text": "random forest",
+          "isCorrect": false
+        },
+        {
+          "text": "overfitting",
+          "isCorrect": false
+        },
+        {
+          "text": "cross-validation",
+          "isCorrect": true
+        }
+      ]
     }
   ]
 }
