@@ -2199,6 +2199,2206 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "database_0101",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0102",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0103",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0104",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0105",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0106",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0107",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0108",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0109",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0110",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0111",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0112",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0113",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0114",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0115",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0116",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0117",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0118",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0119",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0120",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0121",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0122",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0123",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0124",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0125",
+      "question": "કયો શબ્દ મુખ્યત્વે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0126",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0127",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0128",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0129",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0130",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0131",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0132",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0133",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0134",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0135",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0136",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0137",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0138",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0139",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0140",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0141",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0142",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0143",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0144",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0145",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0146",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0147",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0148",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0149",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0150",
+      "question": "કયો શબ્દ માન્ય ખ્યાલ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0151",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0152",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0153",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0154",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0155",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0156",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0157",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0158",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0159",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0160",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0161",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0162",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0163",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0164",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0165",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0166",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0167",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0168",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0169",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0170",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0171",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0172",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0173",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0174",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0175",
+      "question": "કયો શબ્દનો ભાગ છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0176",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "database",
+          "isCorrect": true
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0177",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "table",
+          "isCorrect": true
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0178",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "row",
+          "isCorrect": true
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0179",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "column",
+          "isCorrect": true
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0180",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "primary key",
+          "isCorrect": true
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0181",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "foreign key",
+          "isCorrect": true
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0182",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "index",
+          "isCorrect": true
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0183",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "query",
+          "isCorrect": true
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0184",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "SQL",
+          "isCorrect": true
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        },
+        {
+          "text": "constant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0185",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "NoSQL",
+          "isCorrect": true
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "text": "object",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0186",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "schema",
+          "isCorrect": true
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        },
+        {
+          "text": "condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0187",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "record",
+          "isCorrect": true
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        },
+        {
+          "text": "map",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0188",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "normalization",
+          "isCorrect": true
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        },
+        {
+          "text": "integer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0189",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "transaction",
+          "isCorrect": true
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        },
+        {
+          "text": "recursion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0190",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "ACID",
+          "isCorrect": true
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        },
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0191",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "JOIN",
+          "isCorrect": true
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        },
+        {
+          "text": "compiler",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0192",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "view",
+          "isCorrect": true
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        },
+        {
+          "text": "variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0193",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "constant",
+          "isCorrect": false
+        },
+        {
+          "text": "stored procedure",
+          "isCorrect": true
+        },
+        {
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "text": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0194",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "text": "trigger",
+          "isCorrect": true
+        },
+        {
+          "text": "method",
+          "isCorrect": false
+        },
+        {
+          "text": "loop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0195",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "condition",
+          "isCorrect": false
+        },
+        {
+          "text": "constraint",
+          "isCorrect": true
+        },
+        {
+          "text": "array",
+          "isCorrect": false
+        },
+        {
+          "text": "list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0196",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "text": "database server",
+          "isCorrect": true
+        },
+        {
+          "text": "set",
+          "isCorrect": false
+        },
+        {
+          "text": "string",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0197",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "integer",
+          "isCorrect": false
+        },
+        {
+          "text": "relational database",
+          "isCorrect": true
+        },
+        {
+          "text": "boolean",
+          "isCorrect": false
+        },
+        {
+          "text": "exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0198",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "recursion",
+          "isCorrect": false
+        },
+        {
+          "text": "document database",
+          "isCorrect": true
+        },
+        {
+          "text": "inheritance",
+          "isCorrect": false
+        },
+        {
+          "text": "polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0199",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "encapsulation",
+          "isCorrect": false
+        },
+        {
+          "text": "backup",
+          "isCorrect": true
+        },
+        {
+          "text": "abstraction",
+          "isCorrect": false
+        },
+        {
+          "text": "interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "database_0200",
+      "question": "કયો શબ્દ સામાન્ય રીતે વપરાય છે ડેટાબેઝ?",
+      "options": [
+        {
+          "text": "compiler",
+          "isCorrect": false
+        },
+        {
+          "text": "replication",
+          "isCorrect": true
+        },
+        {
+          "text": "debugger",
+          "isCorrect": false
+        },
+        {
+          "text": "algorithm",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
